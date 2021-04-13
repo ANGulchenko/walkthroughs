@@ -1,7 +1,7 @@
 T2 FM: Patriot (Text walkthrough)
 
 Version: 0.0.1
-Up to date version: https://github.com/ANGulchenko/walkthroughs/Patriot.txt
+Up to date version: https://github.com/ANGulchenko/walkthroughs/blob/main/Patriot.txt
 License: GPLv3
 
 While writing this walkthrough I assume that the reader is rather intelligent
