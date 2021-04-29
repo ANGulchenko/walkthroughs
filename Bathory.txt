@@ -1,6 +1,6 @@
 Thief 2 FM(campaign): Bathory v3.0 (Text walkthrough)
 
-Version: 0.0.1
+Version: 0.0.2
 Up-to-date version: https://github.com/ANGulchenko/walkthroughs/blob/main/Bathory.txt
 License: GPLv3
 
@@ -20,33 +20,33 @@ Actually, one of those rare mission sets which I can say nothing against of.
 === PROLOGUE (GELLERT) ===
 
 To get into the city you should jump into the moat and search a tunnel under
-the wall (it is on the left side if you're facing the main gate). Rope arraws
-are in the gatekeepers place. Also there is a lever to open the gate. Near the
-"well" in the gatekeeper's post there is a small window, you can shoota rope
+the wall (it is on the left side if you're facing the main gate). Rope arrows
+are in the gatekeeper's place. Also there is a lever to open the gate. Near the
+"well" in the gatekeeper's post there is a small window, you can shoot a rope
 arrow through it to climb back out of the moat and enter the city through the
 main gate.
 
 To get into the Thurzo Memorial House you can temporarily switch off the street
-electric light -- you'll have around of 30 seconds until the light will turn on 
+electric light -- you'll have around 30 seconds until the light will turn on 
 back automatically. There is a mace on the wall of the second floor. Usable
 substitute for a sword.
 
 There is a sewer entrance behind the "Black Bey Inn". From there you can get to
 the power station.
 
-Pay attention on the key in the gandermerie captain's office: you need a copy 
+Pay attention on the key in the gendarmerie captain's office: you need a copy 
 of it. Wax for that is in the ajacent office.
 
-To get to the locksmith I just jumped over the fence: I'm not sure if it is
-intended way to get in.Anyway, don't forget to take a crowbar-pry (you can use
+To get to the locksmith, I just jumped over the fence: I'm not sure if it is
+intended way to get in. Anyway, don't forget to take a crowbar-pry (you can use
 it to get to the power station through window) and make a metal copy of the
-key from gandarmerie. From the locksmith's yard you can get to the roof level 
+key from gendarmerie. From the locksmith's yard you can get to the roof level 
 and get inside the Inn -- jump on the balcony with dismantled handrails.
 
-Go to researcher's room in the Inn and take a key for Thurzo Memorial House/ 
+Go to researcher's room in the Inn and take a key for Thurzo Memorial House. 
 You'll found "Mansion Entrance Key" there.
 
-Mansion entrance is in the alley behind the Inn. The gate open wih a steering
+Mansion entrance is in the alley behind the Inn. The gate opens with a steering
 wheel in a small room right above that gate.
 
 In a church-style building take a boulder out of the chimney and put it on the
@@ -54,7 +54,7 @@ pedestal. Take "The Seal" from the nearby portrait.
 
 Use "The Seal" at the foundation of the statue in front of that church-style 
 building. Eventually you'll find yourself in some kind of pool-bath huge room
-with blue-flamed torches. Move further. Use seal again to get into expesively 
+with blue-flamed torches. Move further. Use seal again to get into expensively 
 decorated room. Light the candles and use the sparkling book.
 
 === BLOOD AND ICE (ELIZABETH) ===
@@ -79,7 +79,7 @@ walls are made of red brick without any plaster or decorations.
 In your "private suite" you'll find the key, painting, and -- in the wall safe --
 the seal. Wine goblet (for the rat poison) is near the fireplace.
 
-Put a "Agna's necklace" into the Rozy's box.
+Put the "Agna's necklace" into the Rozy's box.
 
 === ALL SOULS' DAY (ELIZABETH) ===
 
@@ -91,14 +91,14 @@ cupboard.
 The crowbar is in the weapons shop besement. Dont miss the "lock wheel" there too.
 
 The "notary memorandum" is in the locked cupboard in the library cellar. The key
-to it in the bookcase right behind the table in the above ground floor of library.
+to it is in the bookcase right behind the table in the above-ground floor of library.
 
 Look under the rug in the Anna's house. Oh, don't miss the ring on the roof beam.
 And don't ignore the "crumpled letter" -- use a bridge with lantern as a starting 
 point.
 
 There is a decorative mask in the "private rooms". Use it to open the secret
-with "Bag of treasure from Sarvar"
+with "Bag of treasure from Sarvar".
 
 Throw out the "Bag of treasure from Sarvar" through the small window in the tower 
 with a huge bell.
@@ -107,7 +107,7 @@ The Katalin is on the top floor of the church. Near her -- in a flower pot -- th
 is a "Symbol key of Cachtice". Take it and use to retrieve the "key to the Crypt".
 
 The outer crypt door is openable with "Your private keys" and then it'll free the
-access to lock for "key to the crypt"
+access to lock for the "key to the crypt".
 
 Now go to the crypt. The statue's face mask is usable. Touch it. And search for 
 a scroll in the small stairs in front of the statue.
@@ -119,22 +119,22 @@ Time for a bath.
 The rolling pin (blackjack substitute) is in small barracks adjacent to your cell. 
 And the crossbow is in a short tower right in front of the prison exit.
 
-See a tower with a small metal hetch near it (not far from the prison)? This
+See a tower with a small metal hatch near it (not far from the prison)? This
 hatch can be opened with "chimney key" and that key is on the top of this tower.
 This hatch will lead you to lockpicks and a sword.
 
-"Elevator room key" is in some garage-type room (in the opposite to the stables)
+"Elevator room key" is in some garage-type room (opposite to the stables)
 near the steward's room. Pay attention to the hole in the wall on the floor level 
-through which you can see a bottle, a lantern, and a drunck guard. That guard
+through which you can see a bottle, a lantern, and a drunk guard. That guard
 also has a written explanation about "9 chests" situation. To get that scroll
-you should get to the guard. You can't read the scroll through the hole.
+you should get to the guard. You can't reach the scroll through the hole.
 
 Steward has a letter explaining where the seal is: the storeroom below the bridge,
 which is accessible only from the stable vent corridor. Also stewart has a "Stable
 vent key". So just go to the stables and take the seal.
 
-Find a corridor deen in the underground (it has a room with a dewdrop, so it is
-easy to identificate) and search for a lock for a "seal" there/ It is near a lever 
+Find a corridor deep in the underground (it has a room with a dewdrop, so it is
+easy to identificate) and search for a lock for a "seal" there. It is near a lever 
 to open a metal grate. Pay attention on the statue and inscription.
 
 Descend the elevator shaft and pick the door hidden behind the big crates. Use
@@ -158,7 +158,7 @@ is a walkthrough). The stable size is mentioned in the note in the nearby buildi
 
 Secret switch in the Uzonka's room is on the left nightstand.
 
-"Crank key" is in the offices. Cptn.Bojta. In the cupboard.
+The "Crank key" is in the offices. Cptn.Bojta. In the cupboard.
 
 Use the "Crank key" at the locked gate in the water ("sewer" on the map). That'll
 get you to the Ottoman camp.
@@ -186,36 +186,36 @@ room. His octagon is in the secret which is openable with a switch in the bookca
 Next octagon is in the lava pit (cremetorium). It is safe to descent there with
 a help of a rope arrow.
 
-Remeber a big room with 4 sockets? Put the octogons there and then kill Anada.
+Remember a big room with 4 sockets? Put the octagons there and then kill Anada.
 She is killable in a conventional (but long) way. Holy water will help for her 
 "second stage".
 
 Eye? Hit it with a sword.
 
-Well, as a objective says: take Darvulya's octothing and toss it to lava.
+Well, as a objective says: take Darvulya's octathing and toss it to lava.
 
 Now get out of there.
 
 === FALLEN (ELIZABETH) ===
 
 Gardener's key is under the fountain, near the pool (2 civilians there). It opens
-the metal door under the stairs. Don't mistt the "crank key" there.
+the metal door under the stairs. Don't miss the "crank key" there.
 
 There are 2 arrow ropes in the armory.
 
 "Astronomer" watches at some "morningstar". Use his telescope and watch it too.
 
-"Servan't keys" are on the second floor in one the square corner towers.
+"Servant's keys" are on the second floor in one the square corner towers.
 
-In the middle off the crossroad on the second floor there is a room with berths
-and a big hearch. Behind that hearth there is a door openable with "servant's 
+In the middle of the crossroad on the second floor, there is a room with berths
+and a big hearth. Behind that hearth there is a door openable with "servant's 
 keys". It leads to the attic with hatches (use "crank key" to open them) that 
 lead to closed apartments. Read a letter at Thurzo's apartment. Fill a flask
 for Drakula at cptn.Hazugh's apartment. And read a letter from Ponikeus to Hazugh.
 
-See an old hut near the lake behind the windmill? You can get it through the roof.
+See an old hut near the lake behind the windmill? You can get in through the roof.
 
-Take a pry-crowbar at the top of the windmill (inside). The chest with gold in
+Take a pry-crowbar at the top of the windmill (inside). The chest with gold is in
 that very room: search for a grate at the side of the machinery. The second sack
 can be found on the lowest level near the 2-wheel carts in the box with some ropes.
 
@@ -232,7 +232,7 @@ Chain? Sword! Leave Katalin in the crypt, in the room where you did pick up your
 weapons.
 
 In the "official cases" office (near the conference hall) you'll find "your
-original Testament". Take a quill nearby and rite a new one. Use old Testament 
+original Testament". Take a quill nearby and write a new one. Use old Testament 
 on a new one, get "your modified Testament" and put it back into the cupboard.
 
 === EPILOGUE (GELLERT) ===
