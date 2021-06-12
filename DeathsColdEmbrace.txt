@@ -1,0 +1,263 @@
+Thief 2 FM(campaign): Death's Cold Embrace (Text walkthrough)
+
+Version: 0.0.1
+Up-to-date version: https://github.com/ANGulchenko/walkthroughs/blob/main/DeathsColdEmbrace.txt
+License: GPLv3
+
+While writing this walkthrough I assume that the reader is rather intelligent
+person who also likes this game and is able to read readables, loot lootables
+and explore explorable by himself without my stimulating.
+
+=== INFO FROM THE AUTHOR OF THIS WALKTHROUGH ===
+
+The events of this campaign mostly take place in 2 areas, so you'll have a
+chance to see changes in the familiar places during the time flow. And you 
+really should do that. Not because of huge loot piles or crates with gas
+arrows. But because of... You'll see why by yourself. I strongly recommend not
+running through the missions by the shortest path.
+
+The story isn't just a placeholder and has some "literature value". So read texts,
+they are nice. No excessive verbiage too.
+
+This walkthrough is done for the top difficulty except for the last mission
+where I suggest playing on "Normal": you won't miss anything story-wise but 
+save much nerves from ghosting.
+
+=== MURDER MOST FOUL ===
+
+There is a secret in the guard tower with generator machinery -- a switch at the
+one of the bunk beds opens a manhole in the ceiling.
+
+The key to the inventor's apartment is in the safe in the guard tower near the
+hammerite chapel.
+
+Apt.1 (Davidov. Being robbed): take "an old ornate key" behind the flower pot in
+the Davidov's office (closed room)
+
+Apt.2 (Clara): Woman with a sword has another "old ornate key". There is a secret
+book-switch in the bookshelf on the lower floor.
+
+Apt.3 (Inventor): find a switch to power on a lift, descend to the basement
+(cyborg isn't very annoying and in case of problems can be temporarily disabled
+with a water arrow), search for a dinner room and turn on the battery there. 
+Miller's corpse will drop the key which you can use to open the safe (here, in 
+the basement too). You can disable the metal child near the safe by shooting a
+water arrow to damaged sparkling wire near the floor.
+
+See a "zombie" with a lantern on the second floor of Greenwood Aprtments? Climb
+there and find a chest with 2 locks. Use "ornate" keys to open them.
+
+Candle shop has a vent shaft (look high) leading to the Trickster's Tail Pub.
+You can use it to meet lord Fairbanks unnoticed. Don't miss a ring under the lift.
+A key to the safe is on the top shelf of the bookshelf.
+
+Jeweler? Small switch under the front desk (don't confuse it with standard alarm
+button!) will give you a "small key". The book-switch will open the hatch to the
+attic. Take a "heavy key" there. "Small" key is for a safe, "heavy" one will open
+showcases on the first floor.
+
+Painter? A key to the chest is on the foorframe to the bathroom. "A small gold
+key." Also take a "Metal key" from the chimney mantel. It opens a cellar (the
+entrance is outside, right below the main door). Nothing interesting in the cellar
+though: a coin under the stairs and a portrait of some ominously looking guy (not
+Karras, other ominously looking guy).
+
+Linda's Luxury Apparel? You can get in through the windows on the third floor, 
+they are accessible through the bakery roof. Thre are bookshelves and statues
+between floors inside, lower bookshelf has a secret switch (the secret itself
+is on the first floor)
+
+=== A FORMULA FOR SUCCESS ===
+
+See a windows in the outer fence? They lead to small guarposts and one of those
+windows is openable. Or you can simply lure out a guard -- he has keys to outer
+gates.
+
+There is a ventialtion shaft near the fridge which let you get in quetly if you 
+wish (you'll miss some fun in this case)
+
+Top floor: there is a secret switch in a form of wooden tile between chimney and
+the left bookcase.
+
+A "small metal key" is in the lord Highwater's bedroom (toilet). A tiny switch
+at the left side of his bed. Use that "tiny key" to open the safe to get an
+"Office key".
+
+Robert's room has "An old key" (for the crypt) and a small secret behind the 
+wooden wall decorative tile near the head of the bed: some love letters are inside.
+
+The stool from Philip's bedroom is needed in the library.
+
+Look below the desk at the master's office: there is a switch which opens access
+to the safe.
+
+Put a heavy stools on a dark stone tiles in the library. That'll open a small 
+secret room with a safe containing "Incriminating evidence"
+
+Captain's office? You can take a key from the captain himself -- he is patrolling
+the house but often wandering into the kitchen. The right bookshelf has a book-
+switch that'll open the access to the safe with "Safe Combination" scroll. It is
+for the safe in Highwater's office. Formula is in that safe.
+
+Crypt and inner doors there are openable with "An Old Key". The sword is in the
+last chamber. At the very entrance to the crypt there is a hole in the floor
+behind the fence. You can see a chest down there. The fence can be opened with
+a switch hidden behind the flag in that room.
+
+=== RENDEZVOUS AT THE HARLEQUIN ===
+
+How to get into the Inn? There is a lightswitch at the left side of the door and
+you should have a few water arrows. But guards can be easily lured out and knocked
+out.
+
+There is a large sum of money in the guard post near the chapel. And a purse in
+an aprtment near that fake-zombie from previous mission (the guy with a drill).
+
+Nothing else interesting in this mission.
+
+=== SEEKING COUNCEL WITH SHADOWS ===
+
+"A replacement button" is in the tool locker in the cistern shed in the backyard
+of the generator guard tower. Use that button to fix a dumbwaiter in the 
+Fairbanks' cellar. There is a different and less convenient way to get in: you
+can descend the dumbwaiter to the cellar without fixing the button. You can shoot
+an arrow through the window on the second floor (accessible through second floor
+of the generator guard tower).
+
+Library key is on the belt of a guard on the second floor of the Fairbank's manor.
+
+Look for a secret behind the cupboard in the 2nd floor apartment in the Greenwood
+Apartments (the guy with a drill from previous missions)
+
+There is a library in the top floor of the hammerite chapel. "The Book of Shadows"
+can be found above the left bookshelf near the Restricted Library door.
+
+Bring "The Book of Shadows" to Fairbanks. He is in a secret cellar openable with
+a book-switch in the library (small shelf with a ladder)
+
+Take "Rosary Beads" from the second floor of the Thaddeus' apertment.
+
+Keystones info can be found in a book on a bookshelf at Thaddeus' apertment.
+
+There is a secret in the hammerite chapel: a small hammer lying on a huge statue-
+tier hammer.
+
+One more secret in the chapel: in the undergraund barracks find a tiny switch on
+a ceiling beam above the the bunk bed with a "navigator compass" in the footlocker.
+
+There is a secret purse under the roof (on the beams) of Fairbanks' library.
+
+=== COLD RECEPTION ===
+
+Robert is in his room on the top floor, so go there and then escort him to the
+crypt where you will e able to talk.
+
+The combination to the safe in Highwater's office is on the table.
+
+=== WAKING THE DEAD ===
+
+The shovel is outside, near a one-story house; gravekeeper's presumably. 
+Not hidden.
+
+The office with a letter about a secret room with a "battery of armaments"
+obviously has an important secret. Switch is under the table.
+
+Remember a few chests behind the closed gates in the cellar? Those gates can be
+opened with a "key" which is on someone's belt. Be careful: there are 2 just 
+"key" keys in this mission.
+
+Before digging up  the grave be sure to have anti-undead weaponry.
+
+Edwin's body is in the secret in the library in the Thaddeus' office. Usa a
+book-switch on a shelf opposite the entrance door. Put the corpse in the Julia's
+grave and return to the exit area.
+
+See 4 huge statues standing back-to-back? There is a "spice" bag hidden between
+them. Near their heads. You can jump there from a small balcony. That is a secret.
+
+A balcony withcobwebs? Near the big room with hammer-themed stained glass windows
+with reading desks. This room also has an outside door looking straight on the
+Julia's grave. So, how to get to the balcony? Rope arrow should suffice.
+
+There is a secret switch in the bookcase in the Thaddeus' office.
+
+White stone is near the Thaddeus' office, at the base of the statues overlooking
+the library. Just lean over the handrail to pick it up.
+
+A secret red stone is on a beam in the corridor leading to entrance of the tower
+with Thaddeus' office.
+
+A secret blue stone is in the main hall of the church (with pews) at the feet of
+on of those statues in the columns.
+
+A secret green stone is in the library, at the base of the statue looking on the
+bench with "The Builder's Chariot" book.
+
+=== THE RITUAL ===
+
+A key to the Restricted Library is in the chapel. In a room of sleeping high-ranked
+priest (librarian). The "spirit keystone" is in there on a top of the arch-type
+structure inside.
+
+I have managed to blackjack Jill Black but there is no lootable loot on her 
+(she has a purse in her hand and a decorative dagger on a belt but those are not 
+active). So don't spend your time on that.
+
+In a "Quill" district, open the metal door near the bonfire. This building isn't 
+that empty as it may seem. Step near the wall under the stairs. See? A glyph.
+Move forward through the wall. Move-move-move until you get the "death keystone"
+in a mice-infested crypt. On your way back, take a piece of paper from cyborg's
+mouth(Miller-inventor wrote about it in the first mission).
+Keeper's area has one more -- "Life" -- keystone. Push a button behind the woman
+statue and then push the man statue and the door near woman statue will open.
+
+And there is secret in the Keepers' area too: a button on the left side of the
+brick "table" under the bookshelves. There is a lantern on that table. NOT in
+a corridor with a man statue, in a parallel corridor. Just some tools there.
+
+Now to the mechanist building. See a cornoce above the are with bonfire? Use it
+to get to the windows but don't go to the nearest -- first go to the farthest.
+(Cavador's office). Get Vilnia's key there. A "Metal key" is on the belt of the 
+guy from the library. That is a key for the exit.
+The blocked area in the Vilnia's office is openable by a switch under her table.
+Take a "freezer key" and into the freezer (in the warehouses) for the last --
+Flesh -- keystone.
+
+The easiest way to get into the "Quill" shop is to lure the guard outside -- he 
+has a key. Or you can try to find some movable crates and picklock the window 
+above the shed with keepers entrance. All 3 paper pieces are in the shop. One is
+under the stairs (with a small key), one os on the bookshelf, and one is on the 
+cupboard on the second floor. That cupboard is openable with a cmall key. Nothing
+difficult.
+
+Death-North | Life-South | Spirit-West | Flesh-East
+
+Hemp | Oak | Dragon
+
+Well, before you proceed, don't forget to take your payment: Richard's gem
+collection is on the second floor. In the bedroom.
+
+=== THE WAILING KEEP (Difficulty: Normal) ===
+
+After entering the castle throufh the main gate, turn left and search the ruins
+of the small buildings in the castle yard: there you'll find Clara who will give
+you a wand to fire up 4 braziers. Well, fire them up -- that'll open the 
+portcullis to the inner part of the castle.
+
+Descend into the cellar (where Mathien is charging himself with coloured rays)
+and take "An old Bronze key" from the skeleton's hands. Use it to open a metal 
+door upstairs. Rope arrow to ascend in the room/tower with a broken beam. Turn
+switch above the table to move the bookcase. You should find yourself in a room
+with a round hole for the lift. Go upstairs through that hole and find a scroll 
+in Drymian language. Bring it to Clara and get "Dispel Magic Scroll" from her.
+Now go and disable 4 "coloured ray antennas" with that scroll (just use it
+somewhere nearby)
+
+How to open again doors to "sunken cathedral"? remember a ghost blocking a stair-
+way and 2 levers in nearby rooms? There is a ghostperiodically pushing one of
+these levers so just push another when the time is correct.
+
+In a "cathedral" lookbelow the stairs: metal plates are opened now and the 
+levers are accessible. Push them and go to the opened passthrough at the place
+where Mathien laid during your first visit of the cathedral. Read dispel magic
+scroll near the yellow pool.
