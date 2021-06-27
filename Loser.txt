@@ -1,0 +1,107 @@
+Thief 2 FM: Loser (Text walkthrough)
+
+Version: 0.0.1
+Up-to-date version: https://github.com/ANGulchenko/walkthroughs/blob/main/Loser.txt
+License: GPLv3
+
+While writing this walkthrough I assume that the reader is rather intelligent
+person who also likes this game and is able to read readables, loot lootables
+and explore explorable by himself without my stimulating.
+
+=== INFO FROM THE AUTHOR OF THIS WALKTHROUGH ===
+
+Nice, not very big mission with many different things to do and some nonstandard 
+objects. Some forced ghosting, some pitch-black places, a few robots, and even 
+a horde of treebeasts and sharks. But everything in good dosage, nothing is too much.
+But walkthrough is still may be useful. So here it is.
+
+=== LOSER ===
+
+Wait until a huge boulder will fall through the ceiling. Use that boulder to make
+a hole in the floor: search for a slightly darker tile.
+
+Wait until the mechanist descend to the ground with treebeasts, go up by the 
+stairs and turn on the light (the switch with a scroll about turning off the light)
+
+Walk above the cells until you see a 4711 code.
+
+The key to the exit gate from the cell area is on the top of the cell as the
+guard's diary says. Seek on the cell that is nearest to the switch that operates 
+the metal door.
+
+Don't miss a "Keycard - Prison" near the sleeping guard.
+
+Take a "Guardroom" key from the belt of the patrolling guard.
+
+On the top floor of the cellblock, in the guardroom, you can enter the code you
+have found on the cell top, that'll open the lift door.
+
+How te get out from the prison yard (the one with ping-pong tables)? Throw a 
+stone into the grated window near the exit -- this will allow you to reach the
+lever on the other side of the wall.
+
+The pan -- blackjack substitute -- can be found in the kitchen of the pub.
+
+There is a "Blue gem" in a secret under the pub owner's table (room on the 
+second floor).
+
+You can find the compass and a slow-fall potion in the attic of the pub.
+
+The lockpick and a "blacksmith" key are on the second floor of the barracks (white
+brick building with many windows, red flag near the entrance; near the small toilet 
+shed covered with the Hammerite flag). Now you can get "Keycard-Workshop" from
+the small box under the bed on the first floor of the same building.
+
+"Moneybox" key is in the training facility (range section)
+
+The mace -- sword substitute -- can be found at the blacksmith.
+
+"Keycard-Tower" is in the checkpoint at the main gate. The card is in the box
+openable with the "moneybox" key.
+
+There is a secret tunnel to the outer side of the wall in the kitchen of the pub.
+See a "smoke on the water" right in front of the exit of that tunnel? Swim there --
+a fun secret it is(and a slice of pizza). Some diving will be needed.
+
+Jump in the toilet (the one which was covered with the hammarite flag) -- this 
+is the way to the officer's quarters. That office has a "Head of the guard" card. 
+And a crowbar (near the lift -- it is easy to miss)
+
+See a ventilation shaft (near the outer wall)? You can open it with a crowbar. 
+That'll bring you to the laboratory where the scrambler is (near the singing bot,
+there is a switch to turn off the light near the shelf)
+
+The gate in the fence around the tree tower can be opened with a crowbar.
+
+How to kill the Trumpet? Just drop a scrambler somewhere near him and hit him
+with something -- bots will do the rest. Don't forget to take a yellow gem from
+his dead body!
+
+Deactivate robots? Near the piano, at the top level of the tower, there is a flag.
+Move through it. Climb to the roof, then on the antenna, and search for a fuse.
+Remove it.
+
+The lift of the tower can move to the underground -- search for a small button 
+near the doorframe while standing on the ground level and looking towards the exit.
+This will lead you to the laboratory where you did found the scrambler.
+
+Time to visit a hermit. Return to the cellblock, lockpick the emergency door
+opened (in the guardpost) and release the prisoners. Find hermit's cell on the
+middle floor and read his diary.
+
+The red gem can be found in the "shark area" underwater near the lighthouse.
+
+See a well behind the electrified fence? That generator doesn't like the heat.
+There are some fire arrows in the hearth of the blacksmith. The fence is climbable.
+
+Don't miss a ring in the spider cave!
+
+Move-move-move. Have fallen somewhere in a dark corridor? Mace can break the wood.
+Use color gems on the obvious place. Teleport. Lake. Climb huge vines. Climb 
+narrow cliffs. Climb rope (preinstalled, not yours). Take a drop of resin  and 
+receive 20 "Life arrows". Ok, teleport yourself outside.
+
+Use life arrows on the hermit and on treebeasts (the is a pile of them burning 
+near the shore)
+
+Innkeeper? That is a woman in the green dress from the pub.
