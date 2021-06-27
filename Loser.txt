@@ -21,7 +21,7 @@ Wait until a huge boulder will fall through the ceiling. Use that boulder to mak
 a hole in the floor: search for a slightly darker tile.
 
 Wait until the mechanist descend to the ground with treebeasts, go up by the 
-stairs and turn on the light (the switch with a scroll about turning off the light)
+stairs and turn on the light (the switch with a scroll about turning off the light).
 
 Walk above the cells until you see a 4711 code.
 
