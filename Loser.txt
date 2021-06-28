@@ -1,6 +1,6 @@
 Thief 2 FM: Loser (Text walkthrough)
 
-Version: 0.0.2
+Version: 0.0.3
 Up-to-date version: https://github.com/ANGulchenko/walkthroughs/blob/main/Loser.txt
 License: GPLv3
 
@@ -36,7 +36,7 @@ Take a "Guardroom" key from the belt of the patrolling guard.
 On the top floor of the cellblock, in the guardroom, you can enter the code you
 have found on the cell top, that'll open the lift door.
 
-How te get out from the prison yard (the one with ping-pong tables)? Throw a 
+How to get out from the prison yard (the one with ping-pong tables)? Throw a 
 stone into the grated window near the exit — this will allow you to reach the
 lever on the other side of the wall.
 
