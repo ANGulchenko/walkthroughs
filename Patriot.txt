@@ -31,13 +31,13 @@ Grossmeister: move all chess figures except C-vertical (3rd from the right) --
 that'll open the compartment with a prize cup.
 
 Gardener (flower seller near church) has a small switch on the window frame in
-the room with a bed.In the secret you'll find the "Brother's key"
+the room with a bed. In the secret you'll find the "Brother's key."
 
-Mechnists and guards fighting in front of the church are killable but they
+Mechanists and guards, fighting in front of the church, are killable but they
 won't kill themselves.
 
 Pay attention to the building in front of the st.Crash Church (there is a passage
-beneath the wooden trestlewith rotten barrels). This passage will lead you to
+beneath the wooden trestle with rotten barrels). This passage will lead you to
 the cellar and there you'll find a secret switch beneath a stone stairs that'll
 open the passage to the upper floor of the building. Spy's money are under the 
 cupboard and very easy to miss.
@@ -56,7 +56,7 @@ with a ship steer-wheel in the staircase.
 
 "Thrunite" catapult? Use "explosive charge."
 
-You'll geta chance to get to K.Schmidt's flat much later. Yiou'll be able to
+You'll get a chance to get to K.Schmidt's flat much later. You'll be able to
 jump to his window from the roof garden.
 
 Thre is a secret place in NE end of map: an opened window in a narrow and dark
@@ -94,21 +94,21 @@ Run!
 === SPY ===
 
 There is a damaged part in the fence around the main building. On the wall, near
-the main entrance (in the shadows of columns) there are 2 switches: they turn on
+the main entrance (in the shadows of columns), there are 2 switches: they turn on
 "gabarite" lights near the drainage grates on the main road. Well, use those 
 switches.
 
 In a wooden shed in the yard near the small "market" there are 3 levers. They 
 open those drainage grates. Well, use those levers.
 
-To high to jump into the sewers? Use an umbrella Poppins-style. (Russian word 
+Too high to jump into the sewers? Use an umbrella Poppins-style. (Russian word 
 for umbrella is "zontik")
 
 Turn some cog-like valve in the farthest dead-end and an obvious valve to make 
 a flood in the sewers.
 
 To the east from Congress Hall there is a room with metal floor and a toilet
-behind the curtain. There are 3 switchs in that room. They control light in the 
+behind the curtain. There are 3 switches in that room. They control light in the 
 Congress Hall. You can find a "Mechanist's map" on the wall in the Hall.
 
 Very important lever is situated behind the statue at the top level of the Tower.
@@ -119,7 +119,7 @@ Map for "5 lamps levers" is in the Cappelan's office which is situated  on the
 Upper Floor of the Living Quaters, near Guard Post.
 
 "Learn more about the mysterious Capellan" objective was completed by reading
-completely irrelevant letter in Air Mail department (inbox section)
+completely irrelevant letter in Air Mail department (inbox section).
 
 The "Red Rays" can be switched off by a big switch on the first floor of the tower.
 To get there you should push push the button the balcony.
@@ -155,7 +155,7 @@ Victoria:
 Minefield? I just jumped out of the window in the tower right to the left from
 the minefield.
 
-The guard near a huge gate can be distracted from his post with  the lever at
+The guard near a huge gate can be distracted from his post with the lever at
 the right side of that gate.
 
 Take the key from the guard's belt near a big metal grating with door leading to
@@ -191,7 +191,7 @@ tanks. In the dumpster.
 
 To get to the "fuel storage" you should go through "generators" room. Use catwalks.
 
-To get to the "assembling" you cag use conveiour in a small room which has an
+To get to the "assembling" you can use conveiour in a small room which has an
 outdoor exit to 3 vertical tanks.
 
 "Office key" is in the offices on the second floor of "Assembling". You can jump
@@ -203,9 +203,9 @@ charges are in the director's offise in "directorate" zone.
 One more explosive charge is in the laboratory. In the safe.
 
 You can jump off the outside bridge between "Foundry" and "Designers" for a small
-secret (a chest with gas arrow)
+secret (a chest with a gas arrow)
 
-There is asecret lever at the green barrels near a lock for the "access card" in
+There is a secret lever on the green barrels near a lock for the "access card" in
 the laboratory.
 
 The ladder in the laboratory oven will help you to get to the "Parts storage".
@@ -220,9 +220,9 @@ Put it under the press in "Stamping" zone.
 
 Take "wrench №5" in Armory near Assembly Line.
 
-There is an exit outside in that Armory: through the ventilation system.
+There is an exit to the outside in that Armory: through the ventilation system.
 
-Now go to the ex-cotton-store. Thre you'll find a huge undestructable robot. 
+Now go to the ex-cotton-store. There you'll find a huge undestructable robot. 
 Crawl to its rear and open the hatch with "wrench №5" and remove "Impulse source"
 from there. Connect "impulse source" to electrical socket for power fuse (removing
 fuse will turn off the light but the robot has its own floodlight so that won't
@@ -231,7 +231,7 @@ near the "source" but that robot is dumb as... very dumb. I just ascended to the
 outside (through long ladder in the vantilation) and when I returned -- the robot 
 was already destroyed. I suppose it may switch to the patrolling mode or I am
 just lucky. Take a "robot shell". You can turn it to the "explosive shell" with
-a round saw in the warkshop where you've found the "wrench №5".
+a circular saw in the warkshop where you've found the "wrench №5".
 
 In the Armory (near "Raw material storage") pay attention to the powder pile
 near the red explosive barrels. You may need to move those barrels to get to
@@ -272,7 +272,7 @@ boulders). You'll need it later. Don't use it.
 Now go to the clearing and the door to the hut would be opened. Crazy inhabitant
 will give you a "Lupine Seed"
 
-Go to the "Forest" zone. The first location of thi map. You can do it with the
+Go to the "Forest" zone. The first location of this map. You can do it with the
 same way as you came from "Forest" to "Valley". Use "Tree Branch" as a key.
 
 Climb the hollow stump of the huge fallen tree (rope arrow will help you), plant
@@ -289,27 +289,27 @@ the way through sands.
 
 === HERETIC ===
 
-"Archive key" is in the "Abbey court" zone. On the table. Thre is a book with
+"Archive key" is in the "Abbey court" zone. On the table. There is a book with
 bell signals in the archive: near the top of the ladder.
 
-The "chimney sweep's key" can be found in scriptorium.
+The "chimney sweep's key" can be found in the scriptorium.
 
 To get to the Guest Hall I jumped out from kitchen window. But the correct way
 to get there is through the ladder at the top of spiral stairs near "scriptorium".
-Thre is a door locked with "chimney sweep's key"
+There is a door locked with "chimney sweep's key."
 
-A "piece of chalk" can be found in "hospice" zone (blackboard)
+A "piece of chalk" can be found in "hospice" zone (blackboard).
 
 The "fuse" is in the baths region (after artillery balcony). The key to that door 
 has some monk in the Guest Hall. At this moment some other monk will ask you to 
-show a secret passageout of the monastery. Just mark a place you came in with
+show a secret passage out of the monastery. Just mark a place you came in with
 a chalk.
 
-The dialog which you may hear in Pillar Crypt will check off the first objective:
-"Find out where the major is being kept"
+The dialog, which you may hear in Pillar Crypt, will check off the first objective:
+"Find out where the major is being kept."
 
 "Cathedral key" is in the Abbot's Quarters. Also there is a secret switch in the
-hearth whicj reveals a "The order of bricklayers" book. And "Abbot's key" is at 
+hearth which reveals a "The order of bricklayers" book. And "Abbot's key" is at 
 the bottom level of spiral stairs (not just at the Abbot's quarters but near. It
 isn't hidden -- just hangs at the wall)
 
@@ -331,13 +331,13 @@ repair the machinery.
 And run to "Aquilon" where guard is supposed to do his extra prayers. He has keys.
 
 Move the Major to the "Pillar Crypt". Put a few bodies on the bright pressable
-tiles: that'll open the secrt door with exit.
+tiles: that'll open the secret door with exit.
 
 === DETECTIVE ===
 
-The table in your room is a clue
+The table in your room is a clue.
 
-On the attic of the house with blimming light (near police station, C-shaped)
+On the attic of the house with blinking light (near police station, C-shaped)
 there is a rope arrow. You can get to the police department from there. Just jump.
 
 In the police station there is a tiny room right under thw watching tower with
@@ -345,21 +345,21 @@ a telescope at the top. The floor in that room has loose plank. Open it and list
 It is a clue.
 
 On the first floor of the police department you'll find a "police permission" and
-a "police station key"
+a "police station key."
 
-Show "police permission"to the guard to get insede the "Obedient zombie". Talk to
+Show "police permission" to the guard to get insede the "Obedient zombie". Talk to
 the bartender.
 
 Talk to the guards near a huge gates.
 
 Return to the police station. The metal door to the cells will be opened now. Read
 the journal and take a "Signal Whistle". Go to the second floor of the "Zombie"
-to the room with a cheese on the floor and use the whistle. You'' get a bag of 
+to the room with a cheese on the floor and use the whistle. You'll get a bag of 
 "fake money". Trade it for the key. Use that key to the door in "Zombie's" cellar.
 It is the way to the canal.
 
 You can enter the southern house in the st.Remy zone, move with a help of clothing
-line to the balcony with closed door. The key to that doot in a clothes piece 
+line to the balcony with closed door. The key to that door in a clothes piece 
 right on that clothes-line. Listen to the conversation on the lowest floor. It
 is a clue.
 
@@ -379,7 +379,7 @@ letters there. It is a clue.
 
 Behind the S.Low's house you'll find the a doll. It is a clue.
 
-Now got to the church. Side entrance shoud be opened at already. Follow the priest.
+Now got to the church. Side entrance should be opened already. Follow the priest.
 This will lead you to the ruined chapel. Take the dagger and follow the footsteps.
 
 Pay attention to the Keeper door behind that ruined church.
@@ -395,16 +395,16 @@ In the scribe's room in servants quarter (the one with a sleeping guy and a lett
 about a key) you'll find a "scribe's key" stuck in the cupboard.
 
 Take a "Secret Passages and Dungeons" in the library, in the room openable with
-"scribe's key"
+"scribe's key."
 
 In the theatre go to the prompter booth and watch what will happen. Take "Pump
-room key"
+room key."
 
 Watch the Baron's arrival in the Hall.
 
 Visit a Pump room and read 2 letters.
 
-Visit a Control Room (near the pool) and take an order for a bottle of wine. take
+Visit a Control Room (near the pool) and take an order for a bottle of wine. Take
 a bottle nearby and fill it with stagnant water from the pool (just drop it in)
 then put the filled bottle near the door (put it that way to be easy picked up 
 from the room without fully opening the door). That'll grant you access to the 
@@ -421,8 +421,8 @@ the shaft and find a semi-office with a map and table with blue lamp. Read the
 letter. In a adjacent semi-office you'll find the "Appendix B" that ticks off
 the "tunnel entrance" objective.
 
-In a library there si a tiny switch on a square bookshelf opposite the scribe's
-office. It open secret passage to the attic.
+In a library there is a tiny switch on a square bookshelf opposite the scribe's
+office. It opens secret passage to the attic.
 
 Go to the "Chief of Palace Guard" in the "Barracks" zone. Now his door is open.
 
@@ -436,14 +436,15 @@ Return to the Guard Chief office and enter the code (one from the pool -- 4196)
 Watch the cutscene.
 
 In an Art Wing there is a blinking chandelir. Frob it few times and the light
-will go aout. And the signalling system near Phoenix too.
+will go out. And the signalling system near Phoenix too.
 
 Near the place where the Count did explode you can now exit the building.
 
-Now return to the place where you did statr the mission. Dive into the bushes
+Now return to the place where you did start the mission. Dive into the bushes
 and find a broken section of the fence. Enter the building and fuel the generator
 in the cellar. The ignition button isn't on the top but near the bottom of the 
 fuel tank.
+
 In the room near bathroom (with a decorative box on th table) pay attention on 
 the secret door near the painting. It opens with a switch near left-down part
 of that door. Switch isn't hidden but easy to miss. There you'll find a "Key
@@ -459,7 +460,7 @@ Wander in the maze until you'll find a scroll with numbers. Pay attention that
 some numbers are mirrored. The logic is: read the number and go further, making 
 turns on every crossroad. You should make as many turns as the number says. If 
 the number is written correctly -- do right turns, if mirrored -- left turns.
-After end of every queue of turning you should stand in from of the next number 
+After end of every queue of turning you should stand in front of the next number 
 on the wall.
 
 In the "Chasm Hall" pay attention on the middle column adjacent to entrance arcs.
@@ -474,7 +475,7 @@ middle of the path. Some people claim that it is possible to jump over it but I
 never was able to do that. Actually, the only way I was able to cross that 
 taffing cord -- get a savegame from someone on TTLG forums. So, good luck!
 
-Go to the end of  huge spiral "stairs" untic the lava chasm. Now return a few 
+Go to the end of huge spiral "stairs" until the lava chasm. Now return a few 
 steps back and jump into the crack between steps. There is a door there. Don't 
 forget to use "Signal device" after you get to the "Citadel Hall"
 
@@ -484,14 +485,14 @@ lockpick pickable.
 "Key to Elevator" can be found in "Digital Archive Beta" zone. Ride that elevator
 and turn on the transmitter at the top of the tower.
 
-Return to the micromuseus with a Karras astatue and take his helmet.
+Return to the micromuseum with a Karras statue and take his helmet.
 
-To get to the library you should ascent to the roof (where the emitter tower is)
-and search for a window. Smash it and jump in. take (and read) a "Code Book" 
+To get to the library you should ascend to the roof (where the emitter tower is)
+and search for a window. Smash it and jump in. Take (and read) a "Code Book" 
 there. So, as code book says, go to "Security" and get a 4 digit code. 1919 it
 was in my case.
 
-Return to the library and the lower level there are big doors to a huge room 
+Return to the library and the lower level, there are big doors to a huge room 
 with 2 boss-robots (like the one in the cotton-warehouse). They will ignore you
 if you Karras helmet on. So put it on, got to lift and enter the code. In my case
 the robots became agressive as soon as you take off the helmet to enter the code.
@@ -508,7 +509,7 @@ Move to Capella: use vent again and jump through the grate under your feet.
 
 Take "Capella map" from "Designers office"
 
-There is a "bronze gear" in the Capellan's office. use it to open the water 
+There is a "bronze gear" in the Capellan's office. Use it to open the water 
 cistern.
 
 
