@@ -1,0 +1,66 @@
+Thief 2 FM (camapign): Shining Standards (Text walkthrough)
+
+Version: 0.0.1
+Up-to-date version: https://github.com/ANGulchenko/walkthroughs/blob/main/ShiningStandards.txt
+License: GPLv3
+
+While writing this walkthrough I assume that the reader is rather intelligent
+person who also likes this game and is able to read readables, loot lootables
+and explore explorable by himself without my stimulating.
+
+=== INFO FROM THE AUTHOR OF THIS WALKTHROUGH ===
+
+Bland, plain, and boring. You may ask, how the hell the mansion mission can be 
+bland and boring? Imagine a circular corridor with ray-rooms. Fascinating, huh?
+Add a similar second floor to double the fun. Super-duper fun it is now.
+But still, technically the mission is good. The architecture looks ok, some places
+are actually cool (all of them are secrets though) but the gameplay is boring. Oh,
+and all locks are rather long to picklock for the sake of picklocking. The second
+mission alleviates this nuance but others are still in place.
+But we both know why you are here: you want some Thief gameplay but cool missions
+are done. So here you are...
+
+=== Mission 1 ===
+
+Serpentile tork thing in the northern room in the outside wall? Arrows? Just move
+in the shadows. Have you already forgotten your study at Keepers?
+
+Watchman's house has a secret — a purse behind the bed in the attic.
+
+Now go to the well in the NW part of the map.
+
+A silver nugget on the wine shelf in the cellar is the secret.
+
+A key for the storage room is in the weapons room in the basement.
+
+Boarded metal door in the basement? You can get there in a weird way through the
+poorly hidden secret wooden wall tile at the northern "Stairs to the ground floor"
+(the switch to open that tile is hidden behind the banner)
+
+Dark room with an obvious secret wall tile and with ridiculously long lockpicking
+time for the entrance door lock? Turn on both gaslamps to activate the secret.
+
+Don't miss the ring in the bathtub on the second floor.
+
+There are secret levers on columns near the statues on the second floor. 1 secret
+per statue.
+
+The "Fine wine crate" is in the backroom of the bar on the first floor — it looks
+exactly like any other of those crates. So wave your damned sword a little.
+
+An obvious secret in the chapel can be opened with explosives. Before booming it out
+you should destroy that plank. It may prevent the secret from opening.
+
+A secret is in the fireplace in one of the guestrooms on the second floor 
+(the switch is IN the fireplace)
+
+A secret is in the storage room, behind the huge pile of small crates.
+
+=== Mission 2 ===
+
+You can use the "Cargo hatch" to get in. A rope arrow will help.
+
+A secret bottle in the kitchen — look in the shadows, behind the "columns".
+
+Captain has a key to "Secure room". He will arrive to the ship after you read 
+journal in his quarters.
