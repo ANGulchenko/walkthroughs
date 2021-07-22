@@ -1,0 +1,218 @@
+Thief 2 FM (camapign): Keeper of Infinity 2 version 1.6(Text walkthrough)
+
+Version: 0.0.1
+Up-to-date version: https://github.com/ANGulchenko/walkthroughs/blob/main/KeeperOfInfinity.txt
+License: GPLv3
+
+While writing this walkthrough I assume that the reader is rather intelligent
+person who also likes this game and is able to read readables, loot lootables
+and explore explorable by himself without my stimulating.
+
+=== INFO FROM THE AUTHOR OF THIS WALKTHROUGH ===
+
+VERY IMPORTANT: This campaign haven't finished yet. But it is already big enough
+to provide ~5 hours of gameplay.
+
+Very difficult (things are hidden, activities are not always obvious, enemies are 
+plenty and dangerous) missions that can boast a very nice look. Because of latter 
+this campaign isn't for a very old potato-tier machines. 
+Many things in these missions are rather unique. Author obviously is a master of
+dromEd and uses that.
+Unexpectedly much rope-arrow-play.
+Also be prepared that sometimes you will be forced to stay in some
+room until you do something important. So if you have stumbled upon invisible 
+wall that isn't a bug.
+And talk to NPCs until you sure that their replicas are cycled.  Their speeches 
+can be rather long.
+
+=== BAD VENTURE ===
+
+Move along the fence (at the right hand from your starting point) and you'll be
+able to cross the moat-chasm by a wooden plank. Also you can dive a little and
+find a thief hideout ith some loot and a vague tip about city infiltration.
+
+Get on the wooden horizontal flagpole on the gatehouse with a help of the rope
+arrow and then climb the flag (yes, it is climable) upstairs.
+
+There is a crowbar behind the bunk bed at the top floor of the guardhouse.
+
+Take a "spare arrow" (I haven't figured out how they are usable but there are 
+few of them in this mission) in a small closet-like room with a shooting target.
+That shelf under the target is movable so move it and use crowbar on the planks 
+on the floor.
+
+Eventually you'll find yourself at the gate again but from inner side of the town 
+this time. Exit is behind the wooden door near the gate and the key is on the table
+near the snoozing unknockable guard. Don't douse that torch too. Just be quiet.
+
+Police station near the lazy fruit seller? You can get in through the ventilation 
+shaft (rear side of the building). Use your crowbar. Take a "Blocked district key"
+there.
+
+See a tower with a guard at front door? There is a ventilation shaft behind that
+tower. Use crowbar. Now you are in the wine cellar. You can lure that archer
+(standing in the room with a safe) to the dark area by jumping a bit near the 
+grate. In front of the archer there is a small room (with a 3-tier lock) with
+some loot and a "grate key". Watcher? You can turn it off with a switch in that 
+room. Near the door. The safe itself is easy to crack. So do it and get out the
+same way you came in.
+
+There is a pickaxe in front of the "Wine warehouse" main entrance. Ignore the 
+guard and he will ignore you.
+
+See a suspicious bush on the wall behind the house with tree-beast-like tree? Try
+to clear the passage with a sword. Magic involved.
+
+Now return to the crack in the ground near the police station. You can descend 
+in there by that huge vegetation. Dont hesitate to kill those rat-men or whatever
+they are. Take a "Farage's staff" in a cave with wandering mage. You can descend 
+even deeper and get some more silver with your pickaxe.
+
+Now use "Farage's staff" on that suspicious vegetation behind the house with 
+tree-beast-like tree and then use "Blocked district key" to open revealed metal
+door.
+
+Jonas is in the sellar of the Inn. Use a glyph in a small room near the hole
+in the wall, covered with a magic field. To get out use a book-switch on the shelf
+opposite the fireplace.
+
+Take an "empty jar" from the kitchen in the inn.
+
+A ladder to the attic of the building near the shining "House of science"? There
+is some loot and another "spare arrow" in that attic.
+
+See a small spheric cloud above the south entrance of the "House of science"?
+Climb there to see what it is. Report then to Jonas and receive a crystal from him.
+
+A house in front of the "House of science" isn't as empty as it may look: check
+the bed and a hog head for loot. And bookshelf too (all other loot is obvious 
+enough)
+
+Now use the crystal on the cloud and bring it to Jonas.
+
+Clean&Cozy Inn is opened now. Take a key from the flower pot on the second floor. 
+Also there is a green spider in the basement. Put it in the "empty jar"
+
+See a gape in the cornice at the "Stumbled" inn? You can place a rope arrow on
+the roof beam. That'll grant you access to the windows.
+
+Cannot get out from an inn room with flying stones? There is a book in the central 
+stone — look from below. There is also a secret in the room: a switch behind the
+right side of the bookshelf.
+
+Go to Jonas again again ans search the room while he isn't there. Secret switch
+is in the wall of the right (if you're looking at the fireplace) niche with a
+statue. Very hard to see.
+
+The second Jonas hideout is in the sewers near the police station. Right in front
+of the unknockable guard. Lure him away and open the hatch with a crowbar. Take
+the "Attic key" from Jonas.
+
+Under the wooden stairs of the entrance to "Stumbled" inn there is a secret.
+
+See a wall of crates near the chasm on the inn street? Climb over it and search 
+for a secret: lower crate is openable.
+
+"Attic key" opens a door on the second floor of the "Stumbled" inn. Read a diary 
+there.
+
+Go to Jonas' corpse again. Now the pass behind the "House of science" is open
+(it was blocked with magic barrier earlier). You can use that closed shut shed
+to climb on the stone wall. But to get into the shed you need to remove some
+wooden wall planks while hanging on the rope arrow (aim for the roof slightly
+to the left from the shed door). Pay attention on that astronomic chart above 
+the door. Loot is hidden behind it.
+
+The key you're feeking for is further on these corridors in a glass showcase.
+Break the glass and get out.
+
+Return to the "Stumbled" inn. Room №2 is opened now. Mr.Cleman waits for his
+spider delivery. So deliver. Just throw the jar on the bed.
+
+=== RAVEN'S NEST ===
+
+Wander around and then go to the secret from previous mission under the entrance
+stairs of the inn. Tear off those planks there with your bare hands.
+
+Wait near the guards group near the fog until their conversation is over — you'll
+receive a new objective.
+
+Go to the back side of the inn and take a look on a metal fence.
+
+The house — nearest to the chasm in front of the inn — has an openable window
+through which you can get a key to that house. Take a stool there.
+
+Now put the stool on the fence behind the inn.
+
+Talk to that shady guy near the pawn shop entrance. Yes, talk, not blackjack.
+
+The office you need is in the inn now. The bag is on the bar table, near the 
+unknockable guard.
+
+Bring that bag to the shady guy (you need him no more, so...) and he'll let you
+in. Talk to the owner.
+
+Go to the house nearest to the chasm and get into the attic (it is openable now).
+Once in a house, pay attention on the deer head. It has some secret loot. Not so
+secret anymore, huh?
+
+Look out of the window, use a rope arrow on the beam on the top of tht stone wall,
+jump on the rope and look on the metal bar in the window in that wall.
+
+Return to the Flick and buy a hacksaw from him for a cash purse (use it on the saw).
+You should have some in your inventory.
+
+Move through the house opposite the police station and then pay attention on the 
+house looking over the chasm (where you have found the staff in a previous 
+mission). It has openable window. Barrel, window shutters, window. Easy.
+
+In this house there is a secret stash of money beneath the stairs. Now open the
+window on the second floor and move over the rope to Penny's Inn. Read a note
+near the "not looking good" mage. The dagger is behind the ceiling tile in Penny's
+room. Above the bed.
+
+Don't forget to pay visit to lady Adaline.
+
+Bring the Penny's dagger to pawn shop owner. Buy what you like and continue to 
+talk to Flik until you get a list and a "gate control room key"
+
+Return to the second floor of the "Stumbled" inn and you will be met bu mage and 
+his guards. Talk to him.
+
+Now you can go to the fog area and open that metal door with a "gate control room 
+key". That'll bring you to the rich district.
+
+Captain's apartments? Dagger. Search for a switch behind the wall tile near the
+chimney (the same wall where the dagger is)
+
+Library? Take a "key" from behind the bed. There is a grate under the very ceiling 
+in the main hall. It is in the sadow so very hard to see. Try crowbar and then 
+return to Flik and buy and acid from Manu. Use acid on that grate. Descend 
+carefully and use a key from behind of the librarian bed in that glass hemisphere.
+Take a book. Seriously, don't be afraid. Grab it!
+
+Helping lady Adaline will bring you to the inn. Look for the 37th room there. The
+mask is in the cobwebs above the cupboard.
+
+See two oval portaraits above the desk with locked box at lady Adaline's house?
+The key is behind the left portrait.
+
+Try to picklock the entrance door at the big building on the fountain square.
+
+You are in the room with a frogbeast in a aquarium? Turn the head of the "worm".
+It is a secert. Frogbeast is pickable. I suupose there is a nother secret behind 
+the painting but I haven't found the way to open it.
+
+See a potted plant above the "Velandra's elegant shoes"? Look inside. That is a 
+secret.
+
+A secret purse under the bed in ANOTHER gate control room. The gate is the same
+but the room is another.
+
+That angry thing is the sewers (zombie district) is most likely unkillable so
+just evade it. Run to the place where you did found Jonas' body.
+
+Don't try to get all 4 things for Flik. 3 (without statue) should be enough. Flik
+will show you a way to the forest.
+
+
