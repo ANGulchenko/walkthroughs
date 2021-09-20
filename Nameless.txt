@@ -1,0 +1,53 @@
+Thief 2 FM: Nameless (Text walkthrough)
+
+Version: 0.0.2
+Up-to-date version: https://github.com/ANGulchenko/walkthroughs/blob/main/Nameless.txt
+License: GPLv3
+
+While writing this walkthrough I assume that the reader is rather intelligent
+person who also likes this game and is able to read readables, loot lootables
+and explore explorable by himself without my stimulating.
+
+=== INFO FROM THE AUTHOR OF THIS WALKTHROUGH ===
+
+The author claims that this is his first mission but you shouldn't expect another
+"3 absolutely identical rooms with some loot and a few unmarked keys" mission.
+Actually this is rather big and diverse mission. Nothing too fancy but still the
+quality level is unexpected for the first try.
+Texts are useful. Read them.
+
+=== NAMELESS ===
+
+"The small gate key" is in the stone building marked as "House" on the map. It 
+opens the small gate blocking the way to the Barry's house.
+
+"The game room key" is in the 2 bed bedroom near the kitchen (where the dewdrop 
+is). Go to that gameroom and take a "George's key" from the noble's belt.
+
+Pay close attention on the bookshelf in the Victor's room. The one that is 
+furthest from the bed. It contains the scroll with a simple riddle for the safe 
+code. 2185. That safe (George's room) contains the mask.
+
+In the big bar with a stage (not gaming room, another bar) there is a secret 
+switch on the beams holding electric lanterns. It opens the hatch on the stage.
+
+There is a dead body with "Supply room key" underwater in the docks.
+
+The entrance to the caves is accessible from the water in docks.
+
+The "Treasure room key" is in the caves. On the ground near the huge spider.
+
+Closed gate in the caves? Shoot an arrow to the button.
+
+The "Basement key" is on the patrolling guard's belt (in the caves) and another key 
+has a Phillip in the chapel.
+
+Explosive charge is in the supply room.
+
+Give the mask to Barry (using Barry himself, not those mask holders) and he'll 
+give you a fire arrow.
+
+Now go and blow up the exit gate.
+
+Angry Barry? Just throw a flashbomb, climb a stone near him and hit him with a
+sword until the mask will fall off. Pick it up and throw into the lava.
