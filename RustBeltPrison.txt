@@ -1,0 +1,87 @@
+Thief 2 FM: Rust Belt Prison (Text walkthrough)
+
+Version: 0.0.1
+Up-to-date version: https://github.com/ANGulchenko/walkthroughs/blob/main/RustBeltPrison.txt
+License: GPLv3
+
+While writing this walkthrough I assume that the reader is rather intelligent
+person who also likes this game and is able to read readables, loot lootables
+and explore explorable by himself without my stimulating.
+
+=== INFO FROM THE AUTHOR OF THIS WALKTHROUGH ===
+
+Prison escape mission. Not easy one, but without too much "hardcore" stuff. 
+Ghosting is forced for a very limited time (and not mandatory, you can just run),
+sword is available not far from the beginning but the blackjack you'll get nearer 
+to the middle. The map isn't very realistic but rather easy to navigate. Some 
+bugs are still there. Not gamebreaking but still serious: I wasn't able to 
+formally close all the optional objectives while done them de facto. But those 
+bugs don't spoil the mood.
+
+This walkthrough is written for the Expert difficulty.
+
+=== RUST BELT PRISON ===
+
+Take water arrows from a drainage and shoot the vegetation with it -- it'll grow
+enough to be used as a ladder.
+
+I haven't found the way to ascend the stair well quetly. So just run until you
+see a metal door, leading to torture chambers and inciniration room. You'll have 
+a chance to hide there in the shadows.
+
+Now move to the incineration room and take a compass (not important for this mission)
+from a chest and a "laboratory key" from a guard's belt.
+
+At the top of the stairwell you'll see a guard. Just run in the door right in
+front of you and continue to run forward until you see a sword.
+
+The "Maintenance room key" is under the stairs on the lowest level of the
+"Incineration Stage"
+
+The "servant's key" is on the belt of the cook. In the kitchen.
+
+The "garbage chute key" is in the servants area. In a kitchen-like room (with 2
+stoves) on the table in the very corner (farthest from the sink). Really hard
+to see.
+
+Jump into the garbage chute. At the beginning of the "stream" you'll find a chest
+with 3 fire arrows. Shoot one to the explosive barrel to clear the way to the 
+next area.
+
+There are two ways to ascend from the sewers: one is blocked with a broken gate
+and the other leads to the outside. Pay attention on the turnable torch at the
+shady side of the sewers exit.
+
+There is a scroll near the garbage bins at the "Prisoner intake/Back door". Read
+it. This will add a new optional objective.
+
+Lockpicks and blackjack are in the armory. It isn't even locked.
+
+Read the journal in the Laboratory to tick off the objective about why the
+invalids are being incinerated.
+
+In the mechanist office don't leave behind some jewelry above the entrance.
+
+Pay attention on the turnable torch on the back side of the target at the
+shooting range.
+
+Guard post on the stairs near the offices (in front of the lift)? Another turnable 
+torch. Now you have turned all 3 of them so the path to atrium is opened.
+
+Court room? There is a lightswitch near the entrance. Don't forget the judge's key
+from his belt. Now pull him to the torture room.
+
+The door to the sisters (judge's office) is between Lounge and Barracks. It isn't
+hidden in any way but somehow is very easy to miss.
+
+Killing request? I just lured them out and blackjacked them -- there is more than
+enough shade around for that. I have never tried but there is a "dispatch cops"
+switch in the judge's office. It may lure the policemen out. Or not. I don't know.
+
+There is a secret button under one of the desks in the "Interrogation" room.
+
+Now go to the atrium, climb that stone structure with a help of a huge vegetation
+and then jump on the ladder. You may ignore watchers -- those cannons aren't 
+dangerous much at this distance.
+
+
