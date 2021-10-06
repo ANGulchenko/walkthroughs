@@ -1,6 +1,6 @@
 Thief 2 FM: Rust Belt Prison (Text walkthrough)
 
-Version: 0.0.1
+Version: 0.0.2
 Up-to-date version: https://github.com/ANGulchenko/walkthroughs/blob/main/RustBeltPrison.txt
 License: GPLv3
 
@@ -18,7 +18,7 @@ bugs are still there. Not gamebreaking but still serious: I wasn't able to
 formally close all the optional objectives while done them de facto. But those 
 bugs don't spoil the mood.
 
-This walkthrough is written for the Expert difficulty.
+This walkthrough is written for the Expert difficulty of 1.5 version of FM.
 
 === RUST BELT PRISON ===
 
@@ -78,7 +78,11 @@ Killing request? I just lured them out and blackjacked them -- there is more tha
 enough shade around for that. I have never tried but there is a "dispatch cops"
 switch in the judge's office. It may lure the policemen out. Or not. I don't know.
 
-There is a secret button under one of the desks in the "Interrogation" room.
+There is a secret button under one of the desks in the "Interrogation" room. The
+prize is under the clock.
+
+There is also a hidden objective for which you should kill all the invalids: one
+in the laboratory and other is Jack Oh Dear who is in the cell at the 4th level.
 
 Now go to the atrium, climb that stone structure with a help of a huge vegetation
 and then jump on the ladder. You may ignore watchers -- those cannons aren't 
