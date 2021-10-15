@@ -1,0 +1,73 @@
+Thief 2 FM: Cell six (Text walkthrough)
+
+Version: 0.0.1
+Up-to-date version: https://github.com/ANGulchenko/walkthroughs/blob/main/CellSix.txt
+License: GPLv3
+
+While writing this walkthrough I assume that the reader is rather intelligent
+person who also likes this game and is able to read readables, loot lootables
+and explore explorable by himself without my stimulating.
+
+=== INFO FROM THE AUTHOR OF THIS WALKTHROUGH ===
+
+Small, very architecturally nice mission. Attention: never quicksave right after 
+blackjacking someone. Wait 5-7 seconds to make sure that you haven't disturbed 
+the AI because that is gameover. One more nuance: it is easy to get gameover 
+right after switching the generator off or on. Just rearrange the guards' bodies 
+until  everything is fine. Sometimes I got gameover in a situation when no AI 
+could possibly have a slightest chance to see a body but still the alarm 
+was triggered. Moving some random bodies into the dark places helped me.
+
+=== CELL SIX ===
+
+Take a frying pan from the kitchen — a good substitute for a blackjack.
+
+The "Interrogation key" is on the belt of the guard talking to the prisoner.
+
+Open the Interrogation Room but don't rush inside — the path will be blocked
+by something deadly and ghost-like.
+
+"Basil the rat" is in the generator room (no hidden objectives related to it, 
+alas).
+
+Library with a strange window (top floor)? This window is openable with a secret
+book-switch on the shelf near the opposite window. Take a "Rusted Key" there. And
+don't skip the secret switch under the table. Also there is a very easy to miss 
+stack of coins behind the books on the bookshelf.
+
+Take a "Cell Block Access Key" from the table at the stairwell ajacent to the 
+kitchen. Read the both books too. At the top of that stairwell you'll find a
+lift to a room with a guard who is guarding the cell Block entrance. Search the
+office there and take a "Power control key."
+
+Now you can switch off the power. But beware — soon after you'll switch off the
+generator, the mechanist will appear and try to turn it back.
+
+Go to the cell block (through the kitchen-adjacent stairwell). That guard near
+the radiator is almost blind but very hard to knock out. So just ignore him.
+Take a "Cell Master Key" from the patrolling guard (also unknockable) and go to
+the 6th cell. A ring is hidden behind a loose brick above the berth.
+
+You can use the "Cell Master Key" to release the police officer from the cell.
+
+Show the "Signet Ring" from the 6th cell to the ghost in the Interrogation Room
+(throw it on the ground near him). He'll give you a code to the lift. Pick the
+ring back and also take the "Elevator Access Panel key" from the floor.
+
+Don't forget to turn the generator on: elevator needs electicity.
+
+Now use the "Elevator Access Panel key" and a 3791 code to get to the warden's
+office.
+
+Use "Rusted key" to open the chest in the warden's office.
+
+Take "Warden's Office key" from the table.
+
+See columns near the lift at the warden's office? One of them has a small button
+that moves the cupboard freeing the passage to a secret room. Take a "Mysterious 
+Key" there.
+
+Now return to the secret room in the library and use the "Mysterious Key" on the 
+gate. Listen to the record and take it.
+
+Go home through the same door you came in.
