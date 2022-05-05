@@ -1,0 +1,87 @@
+Thief 2 FM: Tell Tale Heart v1.2 (Text walkthrough)
+
+Version: 0.0.1
+Up-to-date version: https://github.com/ANGulchenko/walkthroughs/blob/main/TellTaleHeart.txt
+License: GPLv3
+
+While writing this walkthrough I assume that the reader is rather intelligent
+person who also likes this game and is able to read readables, loot lootables
+and explore explorable by himself without my stimulating.
+
+=== INFO FROM THE AUTHOR OF THIS WALKTHROUGH ===
+
+It is a rather big and heavy mission, full of non-standard scripts and objects. Be 
+patient: listen to what they tell you (no matter how inconvenient is to understand
+the outerworld whinings in a foreign language without subtitles), read what they 
+write to you (unimportant texts are marked in an obvious way), write down things
+if you need. Do not rush.
+Oh, one more thing: prepare yourself for a huge amount of angry undead.
+
+=== Tell Tale Heart ===
+Take a crowbar from the wooden shack on the left side of the abandoned building.
+
+There is a Jenivere's handkerchief lying in front of the front door (I wasn't able
+to find any use to it)
+
+See a hatch in the ceiling near the backdoor? I didn't manage to find a switch
+for it but it is openable with a sword.
+
+See a heater in the abandoned house? There is a switch on the chimney. Press it
+to move the bed aside and free path to the hatch in the floor. Crawl there and
+take the "house key" and the "Mortuary gate key".
+
+Visit dr.Morris in the laboratory. Kill him and put his corpse on the table. Take
+the "Time Machine Portal" key from that table.
+
+Take "poison" from the laboratory. Use it on the "steak" in the morgue. Take
+the "poisoned steak."
+
+Take dr.Morris' body to the downstairs (careful: first clean out the place from
+the enemies) and separate his head with a guillotine.
+
+Put dr.Morris' head on the operational table in the laboratory and take the 
+printout. "2014" is the code.
+
+"Torture Chamber Key" is in the room with a guillotine. On a skeleton. The 
+"Dungeon key" is on the table near the Basso and Jen cell.
+
+See a crazy giant near the Basso and Jen cell? Put the "poisoned steak" on his 
+plate.
+
+Take a "Hand of Evil Eye" (didn't find any usage) and the "cell door" key from
+the giant's table.
+
+Take Basso and Jen and move them outside through the long elevator going to the 
+very beginning of the mission. Put them on the cart as the objective says.
+
+The "silver fuse" is in the dr.Morris' office. And a hatch to the "time machine".
+Use the "Time machine portal" key to open it. The code for the machine is "2014". You
+can get it from the printout from the laboratory.
+
+Dr.Frankenstein's diary is in the living room (modern times) on the top of the
+bookshelf.
+
+Dr.Frankenstein's ring is in the bathroom (modern times): turn a valve between
+the toilet and bathtub.
+
+The "Mausoleum key" can be found in the "Water and Power Station". Underwater.
+On a skeleton (not very easy to see)
+
+The "Precursor mask" (didn't find any usage) is in the mausoleum.
+
+The list of the secrets is under the statue overlooking the Mausoleum. That 
+statue is movable with a button on the back of one of the nearby gargoyles.
+
+There is an important lever on the southern side of the top row of the Mausoleum.
+It opens a small room on the lowest row where you'll find a switch that opens 
+a sarcophagus in the middle of the Mausoleum. Descend there, push the metal plate
+and use the Frankenstein's ring on the skeleton's arm.
+
+Use the scalpel to get the heart.
+
+Now return to the laboratory. Change the fuse. Put the heart on the glass box and
+then put mrs.Morris on the table.
+
+Now you can leave through the way you came (the easiest way is through the 
+elevator in the Torture Chamber)
+
