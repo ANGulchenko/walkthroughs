@@ -1,0 +1,140 @@
+Thief 2 FM: Alterna Crystallis (Text walkthrough)
+
+Version: 0.0.1
+Up-to-date version: https://github.com/ANGulchenko/walkthroughs/blob/main/AlternaCrystallis.txt
+License: GPLv3
+
+While writing this walkthrough I assume that the reader is rather intelligent
+person who also likes this game and is able to read readables, loot lootables
+and explore explorable by himself without my stimulating.
+
+=== INFO FROM THE AUTHOR OF THIS WALKTHROUGH ===
+
+This is a typical town/manor FM. There are many secrets but nothing is really 
+hidden. There are puzzles but they are not crazy. I would even say they are too 
+easy. Into most places you can get by different ways, so in this walkthrough I will 
+show only the easiest one and only if it isn't completely obvious. 
+But there is one important thing that stands out: details. Pipes near sinks,
+disappearing lightspots after the light source is blocked by an obstacle, and 
+many other small things that may stay unnoticed but if you notice them, you'll 
+inevitably say "Aww..." (or however the exclamation of niceness sounds in your 
+language)
+
+This walkthrough is for the Expert difficulty mode.
+
+=== Alterna Crystallis ===
+
+How to get into the Lady X's yard? Shoot an arrow into the target.
+
+Your sword is on the second floor of the "Riverbed Appartments" (it is your home
+and the exit point) very near to your starting position.
+
+[SECRET] A small yard, adjacent to the police department, near the Lady X's 
+front yard? One of the columns there has a secret switch.
+
+A closed gate near the "Miss Peabody's house"? You can walk around it through the
+ajacent house with a balcony or through the attic of that house. Or, when you get 
+to the attic, turn around and look at the slightly ajar window — you can jump 
+there and reach the gate lever through the window. (the attic is accesible through
+the window looking on the street with that gate)
+
+A secret lever at the side of the table in the "City Warehouse" opens
+a passage to another city district.
+
+[SECRET] If you'll open the hude gate at the Warehouse, you could get to the 
+attic where you'll find a key to the Warehouse safe.
+
+You can get to the police department through the sewers: turn left after you
+jump over the pile of barrels and then crawl into the hole in the wall.
+
+[SECRET] A secret ring on the wall between cells 1 and 2 in the police department
+undeground prison.
+
+An important key is near the stocks in the torture room in the polie department.
+
+There are 2 "Lt.Mosley" offices now. Take a "Police Interior key" there. And a 
+very important "order list" scroll is in the chest. This list is a sheriff's
+office code clue. Take a "storage key". It is from a supply cabinet in the police
+workshop. Take a "Replacement valve" from that cabinet.
+
+[SECRET] The locker room has a secret switch on the top of the locker.
+
+[SECRET] A servant room with a letter about a wooden toilet has a secret switch 
+to operate that toilet: it is behind the dresser near the bunk-bed.
+
+The code for the sheriff's office is in the scroll you got in the the Mosley's 
+office: 0721 (first digit is a position)
+
+Read the diary on the sheriff's table to close the "Truart" objective.
+
+[SECRET] One of the statues above the main entrance to the Bafford's building
+has a secret button.
+
+The key to the "Baffors Guard Entrance" is inside, in the guard quarters, near
+that door, second floor, on the shelf.
+
+[SECRET] Kimberly-Stacy room has a secret ring hidden in the ceiling beam above
+the bed.
+
+Bafford's backyard has a generator, powering the safe defence system. Turn it off.
+[SECRET] Also, there is a secret button behind that generator.
+
+[SECRET] A "secret" lever in the freight lift/stairwell zone of the Bafford's 
+office will open the passage to the library. You can also open this passage from
+the library: search for a book-lever on the top shelf of the bookshelf on your 
+right.
+
+The access to the Bafford's safe is granted by a penholder/glass thing on his
+table. The "Golden Muse" is in there.
+
+[SECRET] Near the "Old Hydro Plant Station" there is a cozy sleeping place in the
+corner with some electric machinery, improvised bed and a hand mirror on the floor.
+There is a secret switch there that opens a door above that place.
+
+[SECRET] A tiny broom closet in the flat with a "How to live among thieves" book
+has a secret switch near the ceiling.
+
+[SECRET] A street with a fish-shaped shop sign and some ghost-like sounds? Search
+for a switch in the arch with 2 torches.Try to run over the pile of bones to get
+a bonus objective.
+
+The "Jewelry display key" is in the bar: on a woman's belt.
+
+The "Tower key" is in the Periwinkle's lab above the bar.
+
+The "Lost coins" are on the 2nd floor flat overlooking the warehouse/teleport-
+only-shop. There is also a drunken guy on the balcony. (Don't miss a necklace
+under the bed in that flat). [SECRET] Use those coins on a plate near the
+Hammerite statue in front of the "West Riverbed Gate Station"
+
+[SECRETx4] A secret torch right in front of the "Helena way" sign. Don't miss the
+window above this torch. In that flat there is a secret stash of coins under the
+stairs and a secret switch on the bookshelf. This building also has a window 
+overlooking the canal (the light behind it periodically switches off and on again).
+This is a secret, just walk through that window.
+
+[SECRET] Near the "Helena Way" sign there is a secret purse behind a wood post.
+
+[SECRETx2] See a yard with a 2-storey balcony near the "Helena way" sign? There
+is a secret lever under the balcony (near the dairy shop) and a secret chest 
+under the balcony stairs.
+
+[SECRET] A coin purse, acessible through the slightly ajar door on the balcony
+overlooking the canal. Near the wooden bridge to a USA's traditional barber 
+sign.
+
+[SECRET] On the balcony above the barber shop there is a red bag of spice. (Use
+a vine arrow on the roof)
+
+[SECRET] A secret chest near the bell tower, search near the manhole to the 
+North gate.
+
+A bonus serpentile torc is accesible through the slightly ajar window in 
+the lady X's house. This window is right below roof and overlooks the balcony 
+near the North Gate.
+
+Now ascend the tower, jump into the chimney and that'll lead you to the big
+Periwinkle's laboratory. Use the "replacement valve" to fix the machinery and 
+start it. Don't forget to "boost" it with a new working valve. Now get all the
+crystals (bar lab included) and you can go home.
+
