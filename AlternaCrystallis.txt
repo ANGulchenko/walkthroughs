@@ -52,10 +52,10 @@ undeground prison.
 
 An important key is near the stocks in the torture room in the polie department.
 
-There are 2 "Lt.Mosley" offices now. Take a "Police Interior key" there. And a 
-very important "order list" scroll is in the chest. This list is a sheriff's
-office code clue. Take a "storage key". It is from a supply cabinet in the police
-workshop. Take a "Replacement valve" from that cabinet.
+There are 2 officer offices (Mosley and Hagen). Take a "Police Interior key" 
+there. And a very important "order list" scroll is in the chest. This list is 
+a sheriff's office code clue. Take a "storage key". It is from a supply cabinet 
+in the police workshop. Take a "Replacement valve" from that cabinet.
 
 [SECRET] The locker room has a secret switch on the top of the locker.
 
