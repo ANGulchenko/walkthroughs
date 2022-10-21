@@ -1,0 +1,54 @@
+Thief 2 FM: Anybody... home? (Text walkthrough)
+
+Version: 0.0.1
+Up-to-date version: https://github.com/ANGulchenko/walkthroughs/blob/main/AnybodyHome.txt
+License: GPLv3
+
+While writing this walkthrough I assume that the reader is rather intelligent
+person who also likes this game and is able to read readables, loot lootables
+and explore explorable by himself without my stimulating.
+
+=== INFO FROM THE AUTHOR OF THIS WALKTHROUGH ===
+
+Very small horror-themed mission. Keyhunts are plenty but they are fair: no 
+pixel-hunting or doing something extremely non-standard. Everything is in plain 
+view but just in places where you wouldn't want to search thoroughly. But because 
+of the small area of the mission, keyhunt doesn't transform into frustration.
+
+=== ANYBODY... HOME? ===
+
+Try to turn on the electric light to get a new objective.
+
+Read the diary on the bookshelf.
+
+Take a skillet in the kitchen.
+
+Take a holy powder in the kitchen (under the cooking table)
+
+The balcony key is on the kitchen floor (it is hard to see this key in the dark)
+
+The apartment keys are in the room with the TV.
+
+Read the book on the balcony.
+
+An "empty flask" is behind the sacks on the balcony.
+
+Millie's room key is on the wooden crate on the balcony.
+
+Read a letter under the sofa in the kid's room.
+
+Give a few kicks with a skillet to the skeleton in the dresser in your room 
+until it dismantles and you'll receive a "light box" key. 
+The light box is outside the flat.
+
+Push a lift button to get a crowbar.
+
+Use the crowbar to open the room near the bathroom. The safe code is 3626. 2 is 
+because the neighbor lives on the floor below.
+
+To make holy water, go to the kitchen, turn on the water, put an "empty flask" 
+in the sink and use holy powder on the flask.
+
+Use the holy water on the crystal.
+
+Go to the staircase.
