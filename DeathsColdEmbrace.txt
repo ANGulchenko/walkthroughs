@@ -25,7 +25,7 @@ save much nerves from ghosting.
 
 === MURDER MOST FOUL ===
 
-There is a secret in the guard tower with generator machinery -- a switch at the
+There is a secret in the guard tower with generator machinery — a switch at the
 one of the bunk beds opens a manhole in the ceiling.
 
 The key to the inventor's apartment is in the safe in the guard tower near the
@@ -69,8 +69,8 @@ is on the first floor)
 
 === A FORMULA FOR SUCCESS ===
 
-See a windows in the outer fence? They lead to small guarposts and one of those
-windows is openable. Or you can simply lure out a guard -- he has keys to outer
+See the windows in the outer fence? They lead to small guarposts and one of those
+windows is openable. Or you can simply lure out a guard — he has keys to outer
 gates.
 
 There is a ventialtion shaft near the fridge which let you get in quetly if you 
@@ -94,7 +94,7 @@ to the safe.
 Put a heavy stools on a dark stone tiles in the library. That'll open a small 
 secret room with a safe containing "Incriminating evidence"
 
-Captain's office? You can take a key from the captain himself -- he is patrolling
+Captain's office? You can take a key from the captain himself — he is patrolling
 the house but often wandering into the kitchen. The right bookshelf has a book-
 switch that'll open the access to the safe with "Safe Combination" scroll. It is
 for the safe in Highwater's office. Formula is in that safe.
@@ -135,22 +135,22 @@ can be found above the left bookshelf near the Restricted Library door.
 Bring "The Book of Shadows" to Fairbanks. He is in a secret cellar openable with
 a book-switch in the library (small shelf with a ladder)
 
-Take "Rosary Beads" from the second floor of the Thaddeus' apertment.
+Take "Rosary Beads" from the second floor of the Thaddeus' apartment.
 
-Keystones info can be found in a book on a bookshelf at Thaddeus' apertment.
+Keystones info can be found in a book on a bookshelf at Thaddeus' apartment.
 
 There is a secret in the hammerite chapel: a small hammer lying on a huge statue-
 tier hammer.
 
-One more secret in the chapel: in the undergraund barracks find a tiny switch on
-a ceiling beam above the the bunk bed with a "navigator compass" in the footlocker.
+One more secret in the chapel: in the underground barracks find a tiny switch on
+a ceiling beam above the bunk bed with a "navigator compass" in the footlocker.
 
 There is a secret purse under the roof (on the beams) of Fairbanks' library.
 
 === COLD RECEPTION ===
 
 Robert is in his room on the top floor, so go there and then escort him to the
-crypt where you will e able to talk.
+crypt where you will be able to talk.
 
 The combination to the safe in Highwater's office is on the table.
 
@@ -166,16 +166,16 @@ Remember a few chests behind the closed gates in the cellar? Those gates can be
 opened with a "key" which is on someone's belt. Be careful: there are 2 just 
 "key" keys in this mission.
 
-Before digging up  the grave be sure to have anti-undead weaponry.
+Before digging up the grave be sure to have anti-undead weaponry.
 
-Edwin's body is in the secret in the library in the Thaddeus' office. Usa a
+Edwin's body is in the secret in the library in the Thaddeus' office. Use a
 book-switch on a shelf opposite the entrance door. Put the corpse in the Julia's
 grave and return to the exit area.
 
 See 4 huge statues standing back-to-back? There is a "spice" bag hidden between
 them. Near their heads. You can jump there from a small balcony. That is a secret.
 
-A balcony withcobwebs? Near the big room with hammer-themed stained glass windows
+A balcony with cobwebs? Near the big room with hammer-themed stained glass windows
 with reading desks. This room also has an outside door looking straight on the
 Julia's grave. So, how to get to the balcony? Rope arrow should suffice.
 
@@ -188,7 +188,7 @@ A secret red stone is on a beam in the corridor leading to entrance of the tower
 with Thaddeus' office.
 
 A secret blue stone is in the main hall of the church (with pews) at the feet of
-on of those statues in the columns.
+one of those statues in the columns.
 
 A secret green stone is in the library, at the base of the statue looking on the
 bench with "The Builder's Chariot" book.
@@ -207,27 +207,27 @@ In a "Quill" district, open the metal door near the bonfire. This building isn't
 that empty as it may seem. Step near the wall under the stairs. See? A glyph.
 Move forward through the wall. Move-move-move until you get the "death keystone"
 in a mice-infested crypt. On your way back, take a piece of paper from cyborg's
-mouth(Miller-inventor wrote about it in the first mission).
-Keeper's area has one more -- "Life" -- keystone. Push a button behind the woman
+mouth (Miller-inventor wrote about it in the first mission).
+Keeper's area has one more — "Life" — keystone. Push a button behind the woman
 statue and then push the man statue and the door near woman statue will open.
 
 And there is secret in the Keepers' area too: a button on the left side of the
 brick "table" under the bookshelves. There is a lantern on that table. NOT in
 a corridor with a man statue, in a parallel corridor. Just some tools there.
 
-Now to the mechanist building. See a cornoce above the are with bonfire? Use it
-to get to the windows but don't go to the nearest -- first go to the farthest.
+Now to the mechanist building. See a cornice above the area with a bonfire? Use it
+to get to the windows but don't go to the nearest — first go to the farthest.
 (Cavador's office). Get Vilnia's key there. A "Metal key" is on the belt of the 
 guy from the library. That is a key for the exit.
 The blocked area in the Vilnia's office is openable by a switch under her table.
-Take a "freezer key" and into the freezer (in the warehouses) for the last --
-Flesh -- keystone.
+Take a "freezer key" and go into the freezer (in the warehouses) for the last —
+Flesh — keystone.
 
-The easiest way to get into the "Quill" shop is to lure the guard outside -- he 
+The easiest way to get into the "Quill" shop is to lure the guard outside — he 
 has a key. Or you can try to find some movable crates and picklock the window 
 above the shed with keepers entrance. All 3 paper pieces are in the shop. One is
 under the stairs (with a small key), one os on the bookshelf, and one is on the 
-cupboard on the second floor. That cupboard is openable with a cmall key. Nothing
+cupboard on the second floor. That cupboard is openable with a small key. Nothing
 difficult.
 
 Death-North | Life-South | Spirit-West | Flesh-East
@@ -239,9 +239,9 @@ collection is on the second floor. In the bedroom.
 
 === THE WAILING KEEP (Difficulty: Normal) ===
 
-After entering the castle throufh the main gate, turn left and search the ruins
+After entering the castle through the main gate, turn left and search the ruins
 of the small buildings in the castle yard: there you'll find Clara who will give
-you a wand to fire up 4 braziers. Well, fire them up -- that'll open the 
+you a wand to fire up 4 braziers. Well, fire them up — that'll open the 
 portcullis to the inner part of the castle.
 
 Descend into the cellar (where Mathien is charging himself with coloured rays)
@@ -253,11 +253,11 @@ in Drymian language. Bring it to Clara and get "Dispel Magic Scroll" from her.
 Now go and disable 4 "coloured ray antennas" with that scroll (just use it
 somewhere nearby)
 
-How to open again doors to "sunken cathedral"? remember a ghost blocking a stair-
-way and 2 levers in nearby rooms? There is a ghostperiodically pushing one of
+How to open again doors to "sunken cathedral"? Remember a ghost, blocking a stairway
+and 2 levers in nearby rooms? There is a ghost periodically pushing one of
 these levers so just push another when the time is correct.
 
-In a "cathedral" lookbelow the stairs: metal plates are opened now and the 
+In a "cathedral" look below the stairs: metal plates are opened now and the 
 levers are accessible. Push them and go to the opened passthrough at the place
 where Mathien laid during your first visit of the cathedral. Read dispel magic
 scroll near the yellow pool.
