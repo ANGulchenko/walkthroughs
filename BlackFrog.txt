@@ -1,0 +1,237 @@
+Thief 2 FM(campaign): The Black Frog (Text walkthrough)
+
+Version: 0.0.1
+Up-to-date version: https://github.com/ANGulchenko/walkthroughs/blob/main/BlackFrog.txt
+License: GPLv3
+
+While writing this walkthrough I assume that the reader is rather intelligent person who also likes this game and is able to read readables, loot lootables and explore explorable by himself without my stimulating.
+
+=== INFO FROM THE AUTHOR OF THIS WALKTHROUGH ===
+
+    Rather diverse mission set: town, manor, forest... it has it all. Simple enemies, tough enemies, unkillable enemies, even killabe unkillable enemie (1, but why would anyone want more of that?)
+
+    Texts are a little too verbose but important information is still easy to get and texts are rather good. Visually FM is excellent. Grr, just stop reading and start playing already!
+
+This walkthrough is for the Expert difficulty mode.
+
+=== Songs & Laughter ===
+
+    Take a letter from the floor to figure out that you need to meet a guy in the "3 Heroes Inn". But he will be killed as soon as you see him and before he have any chance to tell you anything significant. You'll get a new objective "Find some information about your next mission."
+    
+    Take the "Irvin's sister house key" from his body the "Garivaldy mansion map" from the table.
+    
+    Irvin's sister house is situated near the church, in the yard behind the red brick fence. The scroll with your mission objectives is in there, on the second floor.
+    
+    [Secret] The flat with a pirate flag. A switch behind the bed.
+    
+    [Secret] The flat with a burrick head above the chimney. A switch behind the cupboard.
+    
+    [Secret] The flat above the fountain with a sleeping guy. Left room. Behind the painting.
+    
+    [Secret] Power room. A purse on the inside cornice.
+    
+    Old Pingus treasure is in the closed area behind the church. Wait for Pingus to enter there. It is the only way to open that door outside. From inside you can open it with a key laying on the ground.
+    
+    [Secret] The flat with a guy with a candle (second floor). Look behind the painting.
+    
+    [Secret] The area with a crumpled note to the killer on the ground. Starting point to the drunk mechanist. Climb the cornice and check the windows.
+    
+    [Secret] In the church. Open the floor tile near the altar.
+    
+    [Secret] The flat with an anchor and steering wheel on the walls. One big room. Round table with chairs. Not far from the grocery store. Activate the candle.
+    
+=== The Portrait ===
+
+    [Secret] A small pool indoor area. A switch behind the statue. But the secret isn't that switch itself but a ring near the skeleton in the opened passage.
+    
+    A room between the "Salon" and "West tower". Pay attention to the liquid running somewhere from below the bookshelf. A good kick of a sword will open that door, disguised as shelf. Take a "little bag" there.
+    
+    The "Chapel key" is in Lady Garivaldy's apartment; on her belt.
+    
+    [Secret] A secret chest on the cornice in the chapel.
+    
+    A cornice in the chapel hides a passage to the tower. ("Tower key" is inside).
+    
+    Top floor of the tower (the one you get to through the chapel) has a hidden scroll on the top floor, behind the statue. Read the scroll to get the painting code: Z.
+    
+    Take a "Hmm... Interesting" hatchet from the room of the Mitchell guard.
+    
+    Have you seen Gilles during his unpleasant dialogue? He run away to the pools. Take a key near his body. It is from the workshop in the cellar.
+    
+    Drones can be disabled with water arrows.
+    
+    Take a diary from the cellar workshop.
+    
+    [Secret] A switch on the shelf with the barrels in the cellar.
+    
+    [Secret] Some valuables on the highest beams above the entrance to the cellar.
+    
+    Truart's portrait near the smoking room. There is lock nearby behind the curtain. Easy to miss.
+    
+    Strange set of buttons above the painting room? Code is Z.
+     O
+    X X
+    OXO    Press Xs from left to right and from top to bottom. Z.
+    X X
+     O
+     
+    Karras' Breath is near the portrait you need to steal. Put the "Little bag" on a pedestal before taking the artefact.
+    
+    [Secret] A switch under Lady's Garivaldy table in her apartment.
+    
+    A book-switch on the second floor of the library will open the passage to the Garivaldy's apartment. Take the "Muses garden key" there.
+    
+    There is an easy to miss button behind the statue in the Garivaldy's apartment that open a way to the attic where you can switch off the electrified floor near the painting.
+    
+    In the "Garden of the Muses" take a "Secret exit key" from the Veckman guard.
+    
+    Use hatchet on the corpse in the Muses garden to get the "Portrait's room control little key".
+    
+    [Secret] Dive into the water drainage behind the corpse in the Muses garden for a few coins.
+    
+    You can turn off the camera in the "Portrait's room control" with a water arrow.
+    
+    Exit through the Muses garden.
+    
+=== Tears and Sorrow ===
+
+    Return to the Inn and take a letter and a key from the small locked box on the floor.
+    
+    From the balcony of the Inn you should be able to an X-marked window on the second floor. Get inside. Key and letter again.
+    
+    Now to the mayor's house. Search for an X-marked manhole in the ceiling of the second floor. Take a key there.
+    
+    Next checkpoint is a well behind the church/ Leave the painting there on the table and take your money and a wharf key.
+    
+    I haven't found an effective way to kill those creatures so use the sword. They aren't very dangerous. There 2 mines in the warehouse; they might help.
+    
+    You shouldn't look for a second key to the wharf doors. Use your lockpicks.
+    
+=== The Lady and a Thief ===
+
+    Don't forget the "Rusty lever" that is on the Belmont's journal.
+    
+    [Secret] Waterfall near the village entrance. Use rope arrow to get to the top.
+    
+    Additional objective: read a scroll near the corpse laying before the village entrance.
+    
+    [Secret] Dive into the well in the village.
+    
+    The "Shanty key" is in the basement cell with the Lize girl in the village.
+    
+    [Secret] Chest in the attic (above the guy who is standing near the window)
+    
+    The map is in the shanty you can find if you'll move further through the village.
+    
+    [Secret] A food stash behind the pirate flag on the attic of the house with woman survivor.
+    
+    The pond near the huge gates (gargoules, etc)? Pay attention: there is a passage further into the rocks.
+    
+    Do you see a strange religious construction near Elzo house? Shoot a moss arrow into the mouth of the idol. Explore the "puzzles" of the temple -- they are very straightforward.
+    1) Left part of the wooden intersection:
+        * Jump over the columns, pres button
+        * Kill monster, push button
+        * Push the skull
+    2) Drop monster's corpse on the button, push the skull
+    3) Turn the huge lever in the 3rd part of the wooden intersection
+    Now retrace back slightly to the room with metal floor. Climb through the ceiling and aim the far button to switch on the bridge. Turn off the Garivaldy's machine.
+    
+    Go through the waterfall at the gargoules pond. Climb on the cliff with exploding frog -- that'll lead to the ruins of the fishery (place with many beheaded corpses). Another Garivaldy machine here. Middle ruin -> tower -> another tower -> stuck? Look for a hole in the ceiling. Turn on the electricity: the switch is near the 3 rusted barrels (hard to see in the dark). In a room from which you saw a soldier's death, turn on another switch to open access to the machine.
+    
+    [Secret] Under the entrance to the sanctuary, underwater, behind the lockpickable grate lies a fruit.
+    
+    The entrance to the Sanctuary can be opened with a lever in the tower. Use a rope arrow to get there.
+    
+    [Secret] Sanctuary. A zone with skeleton in the niches. Some kind of bureal area. Climb into a hole in the ceiling to get to the secret chest.
+    
+    Activate the scull on the Charaka statue to get access to another Garivaldy machine.
+    
+    Mill. Take a key from the guard on the second floor. The guy you need to save is in the basement. Just remove that barrel from his head.
+    
+    Village. "Rusty key" is behind the shelf on the second floor of the house with a crayman head on its facade. Jump into the water under the bridge leading to the village and you'll see the door for that key.
+    
+    Take the "Spring wiring" from the chest on the second floor of the lift building in the Children of the Black Frog zone. Insert it into the elctric box near the lift.
+    
+    [Secret] Jump into the window while ascending the lift.
+    
+    Turning off Garivaldy machine will open the huge metal gates at the beginning of the zone. Take "Exit key" from a while dressed woman.
+    
+    [Secret] A lone gravestone near the woman with that "Exit key". Activate it to get the "Munstroz's skull" (I haven't found any usage for it)
+    
+    Use the crystal in the middle of the pool where the woman with "exit key" was patrolling. Touch the tounge of the statue.
+    
+    Now go to the gates with gargoules. Ascend to the very top and pull the last conclusive lever. Now you can enter the castle.
+    
+=== The Black Frog ===
+
+    Take the "old pen" behind the book pile. Use it like a lockpick to open the window.
+    
+    Your real lockpicks are in the adjacent room, get there through the balcony.
+    
+    [Secret] Investigate a tower you can see from a room where you have found your lockpicks.
+    
+    A key on the belt of the guard, patrolling the first floor. This key is from the grate in the barracks in the cellar.
+    
+    Blackjack is in the armory (doesn't need a special key. Use lockpicks). "Weapons room" it is marked on the map.
+    
+    [Secret] A secret passage in a cmall room right in from of the First Priest's apartment: a switch near the statue will move a painting.
+    
+    The map is in the room on the second floor in the deadend corridor where you get through the library.
+    
+    [Secret] room near the room with a map. Switch is near the statue.
+    
+    [Secret] Turn the steering wheel in the last small room in the corridor with a room map.
+    
+    [Secret] room in the library. Push a gargoule statuette on the windowsill.
+    
+    The sword is on the wall, near the dining room (sleeping guard on the chair)
+    
+    Boarded door in the cellar behind the tapestry near the sink. Listen to the conversation between Emilie and Bazil and do as new objectives command.
+    
+    Now go to Emilie's apartment. Hidden switch behind the statue near the bed. Take the "mirror room key".
+    
+    The "mirror room" is in the basement of the Emilie's house.
+    
+    Now, as you find yourself in the Black Frog world you should pay attention to the messages from the Keeper and do what he says.
+    
+    Touch the "eye" in your room.
+    
+    [Secret] Small library-like room near the room where you heard the voice of Karras: push the statue.
+    
+    Push one more "eye" in the deadend after the "Karras room".
+    
+    Now the big round eye (where the library was in the normal world) is accessible. Sword first, picking up next.
+    
+    Go to the "doll garden" and use the "myEye" on the blue doll. That'll open the passage to the Emilie's apartments. Activate another blue doll there.
+    
+    Use the "myEye" on the Emilie's portrait. That'll open some new passages in the main building. Search for the smiley faces.
+    
+    The zone under the smiley face with deadly spheres patrolling (you can't disable them): find 2 zombie-head-switches on the walls (on is near the cage with the doll, another is accessible through the ladder in front of that cage). The cage will open after you activate both heads. Take "Emilie's doll part 1" and get out of there.
+    
+    Another smiley face is in the place where Bazil's room should be. Use a rope arrow. Corpse-switch. Some doors can be moved through without opening. But don't run or you can fall. Take the "Emilie's doll part 2"
+    
+    Doll garden again. Throw doll parts into lava. Kill the big doll (I think it can be killed only with a sword) and take "The Black Frog's key".
+    
+    Now move to the room where the "Prayer's room" should be and use "The Black Frog's key" on a plaque under the portrait.
+    
+    Use "myEye" on the mirror.
+    
+    Welcome back to the "normal" world.
+    
+    Move to the temple area. The temple is opened now.
+    
+    Take "Garivaldy's room key" from the Second Priest's room (above the bed, behind the tile)
+    
+    Get "tunnels key" from the body of sir Belmont.
+    
+    [Secret] Torch-switch on the column near Charaka.
+    
+    Take the "Negative Crystal" from Garivaldy's room. Near the bed, behind the false panel.
+    
+    The "tunnels key" opens the "Underground machinery" room.
+    
+    Insert the "Negative Crystal" into the crystal machinery.
+    
+    Kill the Reaper? Open the lava pit (lever near crystal machinery) and run a few circles around. The beast will explode eventually because of stepping into lava.
+    
+    When you're ready, go to the room beneath the Mirror. Enter the cage, open the panel and use the switch.
