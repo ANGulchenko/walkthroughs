@@ -1,0 +1,84 @@
+Thief 2 FM: Nest Of Vipers (Text walkthrough)
+
+Version: 0.0.1
+Up-to-date version: https://github.com/ANGulchenko/walkthroughs/blob/main/NestOfVipers.txt
+License: GPLv3
+
+While writing this walkthrough I assume that the reader is rather intelligent
+person who also likes this game and is able to read readables, loot lootables
+and explore explorable by himself without my stimulating.
+
+=== INFO FROM THE AUTHOR OF THIS WALKTHROUGH ===
+
+Medium-sized cathedral-themed mission. Nothing is hidden in a hard way. The loot objective is trivial.
+Candles reignite themselves automatically. Torches do not.
+Humanoid enemies aren't difficult, but golems can be a problem. Golems are afraid of sword and flashbombs.
+
+This walkthrough is for the Expert difficulty mode.
+
+=== Nest Of Vipers ===
+
+Of course Halyard won't be able to help you because of being dead. That happens to Garrett's companions a lot.
+
+A wooden platform will allow you to ascend the wall above the gates. Push a lever there to open the gate.
+
+[Book info] In barracks, near the sleeping soldiers, there is an important book about the Bell of Silence that has something to do with the magical barrier on the bridge to the Astronomy Tower.
+
+Bell of Silence can be accessed through the roof. Use it to dispel the magic barrier on the bridge.
+
+Take a "Keep key" in Ludbold's office in the Astronomy tower and read his diary.
+
+At Ludbold's bedroom pay attention to the "Altar-like thing with some on-ceiling device". At the top of the Astronomy Tower rotate the telescope until you see a Moon in the viewfinder. Now you can take the "Chaos Chard" from the Ludbold's bedroom.
+
+Don't forget to turn on the teleport with a lever near the telescope.
+
+Mehrgarh Stele is in the garden on the top floor (indoor) of the Keep. Use the "Chaos Chard" on it.
+
+Try to take your payment from the secret room in the bath changing room (use the right clothing hook to get in). Be careful about the trap. Get a new objective. Kethmar will appear shortly after you get the payment and he has a key to his room.
+
+Push a lever under the bedside table in Kethmar's room. Push another lever behind the painting and take the "Incriminating document".
+
+Put "Incriminating document" on Valthazar's desk (the one with his name on it)
+
+Crypt exit to the cliff can be opened with the "Keep key".
+
+=== COLLECTION ===
+
+1. Lunarc Wand is in the classroom in the Astronomy tower. Above the door.
+
+2. Mystforge Wand. Astronomy Tower. A room with a teleporting rat. Above the door.
+
+3. Slinghord Wand. Keep. Not hidden. In a room above the round room with portraits and blue crystals.
+
+4. Frostgem Wand. Keep. Not hidden. The round room with portraits and blue crystals. Near the Volthazar's office.
+
+5. Twistpine Wand. Keep. Not hidden. First floor.
+
+6. Fire Opal Wand. Keep. Not hidden. First floor. Near the room with many differently colored chemicals on dishes.
+
+7. Triclaw Emerals Wand. Herbalist's room near the baths.
+
+8. Aethermist Wand. Astronomy Tower. The shelf is on the same floor as the teleporter to the Keep.
+
+=== SECRETS === 
+
+1. A coin purse on the rafts above the table where Yurrick studies cadaver of the construct/golem
+
+2. Obvious openable panel in a small library room (the one with a ladder to the upper floor). Hang over the balcony near that panel to see a switch.
+
+3. Coin stash on the rafts in the Astronomy Tower (classroom floor)
+
+4. Crypt. A part with a round "table" in the middle. This table has a hidden switch.
+
+5. The middle buttress (those are accessible through the roof near the Bell of Silence) has a hidden coin purse behind the statue.
+
+
+
+
+
+
+
+
+
+
+
