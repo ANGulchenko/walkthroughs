@@ -1,0 +1,44 @@
+Thief 2 FM: At Lapstone House (Text walkthrough)
+
+Version: 0.0.1
+Up-to-date version: https://github.com/ANGulchenko/walkthroughs/blob/main/AtLapstoneHouse.txt
+License: GPLv3
+
+While writing this walkthrough I assume that the reader is rather intelligent
+person who also likes this game and is able to read readables, loot lootables
+and explore explorable by himself without my stimulating.
+
+=== INFO FROM THE AUTHOR OF THIS WALKTHROUGH ===
+
+Small manor/yard mission. Nothing too complicated, nothing too unexpected. High quality though.
+The mission has 3 guards with thick helmets but I have found only 2 gas arrows.
+
+This walkthrough is for the Expert difficulty mode.
+
+=== At Lapstone House ===
+
+[Evidence] "A scroll about the idol" is on the belt of a pirate-looking guard near the port exit.
+
+The warehouse near the port exit can be entered though the window. "Warehouse key" is inside on a patrolling guard. See that sleeping guard? You can walk around that noisy gate through the ventilation system. Look at the ceiling in a nearby room.
+
+[Evidence] "Pagan Idol" is in the crate, near the sleeping guard in the warehouse.
+
+The "decrepit key" can be found on a skeleton in the ventilations shafts above the first floor (easy to access through the kitchen). This key opens a grave in the statue park. A Sea Captain's Map is there (secret objective). Light up 2 torches to open a room with a spyglass (bonus objective). You can find fire arrows at the "gazebo" outside and in the kitchen.
+
+[Secret] Switch in the Steward room. Under the windows, on some kind of sofa.
+
+You can get to the Master bedroom through the ventilation shafts. Most convienient entrance is in the toilets on the 2nd floor.
+
+"Master Willy's key" is in the Master bedroom.
+
+Dice (objective) are in the game room and their compartment is closed with "Master Willy's key".
+
+[Secret] Switch near the statue in the office on the 2nd floor. "Small safe key" there and a [Evidence]letter.
+
+"Small safe key" opens a safe in the Master bedroom.
+
+A blue vase you are looking for is in the Master bedroom.
+
+[Secret] A small switch in a safe in the Master bedroom opens another safe with the "Heart of the Sea"
+
+
