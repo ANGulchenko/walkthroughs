@@ -34,7 +34,6 @@ Butler's room has the "Strange Note" in a garbage bin.
 
 "Cauldron" is in the kitchen.
 
-Read notes in the Drawing Room (second one is in the fireplace) and take the "Clockwork winding key". Use this key
-on the clock in the Parlour and set the time to 12:00. Take the "Jeweled crown of the Queen Azcha".
+Read notes in the Drawing Room (second one is in the fireplace) and take the "Clockwork winding key". Use this key on the clock in the Parlour and set the time to 12:00. Take the "Jeweled crown of the Queen Azcha".
 
 
